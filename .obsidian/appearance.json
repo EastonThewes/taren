@@ -1,1 +1,5 @@
-{}
+{
+  "accentColor": "#ffffff",
+  "baseFontSize": 18,
+  "cssTheme": "Typewriter"
+}
