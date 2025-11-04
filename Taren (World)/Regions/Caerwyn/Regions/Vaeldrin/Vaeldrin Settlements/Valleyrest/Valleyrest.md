@@ -16,4 +16,5 @@ recenter: false
 darkmode: false ### marker
 ```
 
-#
+# Places
+[[Valley's Rest]]
