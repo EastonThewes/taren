@@ -1,2 +1,0 @@
-[[Rivermere]]
-[[Valleyrest]]
