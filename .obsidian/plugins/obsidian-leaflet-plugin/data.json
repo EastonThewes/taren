@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1762277473394,
+      "lastAccessed": 1762283616599,
       "markers": [
         {
           "id": "ID_da1b385ad9c8",
@@ -24,6 +24,33 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "ValleyRest",
+      "lastAccessed": 1762283616599,
+      "markers": [
+        {
+          "id": "ID_0a48f93a2848",
+          "type": "default",
+          "loc": [
+            1682.4375,
+            1938
+          ],
+          "layer": "%5B%5BValleyRest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Taren (World)/Regions/Caerwyn/Regions/Vaeldrin/Vaeldrin Settlements/Valleyrest.md"
+      ]
     }
   ],
   "defaultMarker": {
