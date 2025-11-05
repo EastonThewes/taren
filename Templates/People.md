@@ -10,5 +10,14 @@
 
 ### Roleplay Notes
 
+#### Voice
+
+#### Speech Habits
+
+#### Demeanor
+
+#### Behavior
+#### Motivations
+
 ## Information
 
