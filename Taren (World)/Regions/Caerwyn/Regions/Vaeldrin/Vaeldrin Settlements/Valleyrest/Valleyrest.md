@@ -17,4 +17,4 @@ darkmode: false ### marker
 ```
 
 # Places
-[[Valley's Rest]]
+[[The Valley's Rest]]
