@@ -18,11 +18,60 @@
 - Conflict is common: domains can encroach on one another, and ambition drives divine politics.
 - The Creator is absent but ever-present, the “sun” around which all divinity orbits.
 
+
+**The Creator Tier**
+
+- The Source
+
+**Prime Ascended (First Four)**
+- Aeris (Invention)
+- Khal (War)
+- Seren (Mercy)
+- Thorn (Nature)
+
+**Middle Ascended (Next Six)**
+- Draen (Death)
+- Marion (Sea)
+- Eloin (Secrets)
+- Kaelir (Freedom)
+- Verris (Madness)
+- Nisra (Fate)
+**Recent Ascended (Youngest Six)**
+- Soren (Hearth)
+- Luneth (Knowledge)
+- Aven (Justice)
+- Veyra (Vengeance)
+- Solmara (Hope)
+- Malric (Night)
 ## God List
 
 [[Aeris the First Flame]]
 [[Khal the Broken Spear]]
 [[Saren Vale]]
 [[Thorn of the Wastes]]
+[[Marion the Tidewalker]]
+[[Draen the Still Flame]]
+[[Eloin the Unseen]]
+[[Kaelir the Crownless]]
+[[Verris the Shattered Mirror]]
+[[Nisra the Loomkeeper]]
+[[Soren Hearthfather]]
+[[Luneth the Gilded Quill]]
+[[Aven of the Twin Blades]]
+[[Veyra of the SIlent Step]]
+[[Solmara the Radiant Voice]]
+[[Malric the Hollow Star]]
+
+[[Zerath the Shredding Mind]]
+[[Vorka the Flameborn]]
+[[Thyrr the Withered Hand]]
+[[Selune the Whispered Lie]]
+[[Kaelis the Eclipsed]]
+[[Morra the Maw]]
+[[Veykor the Endless Pain]]
+[[Nyrrath the Fractured]]
+[[Zalith the Black Tide]]
+[[Ravyn the Hollowed]]
+
 
 
