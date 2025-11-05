@@ -27,7 +27,7 @@
     },
     {
       "id": "ValleyRest",
-      "lastAccessed": 1762283806489,
+      "lastAccessed": 1762371896813,
       "markers": [
         {
           "id": "ID_0a48f93a2848",
@@ -36,12 +36,12 @@
             1682.4375,
             1938
           ],
-          "link": "Valley's Rest",
+          "link": "The Valley's Rest",
           "layer": "%5B%5BValleyRest.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Valley's Rest",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -49,7 +49,9 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "Taren (World)/Regions/Caerwyn/Regions/Vaeldrin/Vaeldrin Settlements/Valleyrest/Valleyrest.md"
+      ]
     }
   ],
   "defaultMarker": {

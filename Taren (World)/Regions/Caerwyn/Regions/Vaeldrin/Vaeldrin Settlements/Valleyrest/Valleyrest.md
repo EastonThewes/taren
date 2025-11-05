@@ -1,3 +1,4 @@
+
 ```leaflet  
 id: ValleyRest ### Must be unique with no spaces  
 image: [[ValleyRest.png]] ### Link to the map image file. Do not add a ! in front of the image  

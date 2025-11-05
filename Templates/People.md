@@ -1,0 +1,6 @@
+## Biography
+
+## Personality
+
+## Information
+

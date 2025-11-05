@@ -1,5 +1,5 @@
-# Locations
+## Locations
 
-# Settlements
+## Settlements
 [[Rivermere]]
 [[Valleyrest]]
