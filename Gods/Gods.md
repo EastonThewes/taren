@@ -23,5 +23,6 @@
 [[Aeris the First Flame]]
 [[Khal the Broken Spear]]
 [[Saren Vale]]
+[[Thorn of the Wastes]]
 
 
