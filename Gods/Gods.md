@@ -20,8 +20,28 @@
 
 
 ## God List
+The Creator
 
+Prime Ascended
+Aeris
+Khal
+Seren
+Thorn
 
+Middle Ascended
+Draen
+Marion
+Eloin
+Kaelir
+Verris
+Nisra
 
+Recent Ascended
+Soren
+Luneth
+Aven
+Veyra
+Solmara
+Malric
 
 
