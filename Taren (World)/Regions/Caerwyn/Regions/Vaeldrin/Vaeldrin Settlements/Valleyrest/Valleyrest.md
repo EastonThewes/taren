@@ -1,4 +1,6 @@
 
+## Map
+
 ```leaflet  
 id: ValleyRest ### Must be unique with no spaces  
 image: [[ValleyRest.png]] ### Link to the map image file. Do not add a ! in front of the image  
@@ -27,3 +29,5 @@ darkmode: false ### marker
 [[Bram Weller]] - Dwarven smith. Works iron and repairs farm tools. Grumbles about the forge’s damp air but won’t leave it.
 [[Calen Vos]] - Young ranger. Patrols nearby woods, occasionally reports strange prints or missing livestock.
 [[Brother Harl]] - Elderly Priest of the Church of Soren
+[[Ping]] - Goblin Bard who plays the piano at _[[The Valley's Rest]]_
+[[Darrik Holm]] - Human Carpenter
