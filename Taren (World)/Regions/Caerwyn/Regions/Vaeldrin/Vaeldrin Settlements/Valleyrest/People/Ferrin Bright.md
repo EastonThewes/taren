@@ -1,4 +1,7 @@
 #Valleyrest #Vaeldrin #Person
+
+[[FarrenBright.jpg]]
+
 ## Biography
 **Location:** [[Valleyrest]], [[Vaeldrin]]
 **Race:** Half-elf
