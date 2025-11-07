@@ -1,3 +1,4 @@
+#Valleyrest #Vaeldrin #Person
 ## Biography
 **Location:** [[Valleyrest]], [[Vaeldrin]]
 **Race:** Half-elf
