@@ -17,5 +17,9 @@ recenter: false
 darkmode: false ### marker
 ```
 
-# Places
+## Places
 [[The Valley's Rest]]
+
+## People
+[[Ferrin Bright]] - The Valley's Rest Owner
+[[Ji]]
