@@ -26,4 +26,4 @@ darkmode: false ### marker
 [[Lysa Greenthorn]] - Half-elf herbalist. Runs a small apothecary. Quiet, observant, supplies both healers and hunters.
 [[Bram Weller]] - Dwarven smith. Works iron and repairs farm tools. Grumbles about the forge’s damp air but won’t leave it.
 [[Calen Vos]] - Young ranger. Patrols nearby woods, occasionally reports strange prints or missing livestock.
-[[Brother Harl]] - 
+[[Brother Harl]] - Elderly Priest of the Church of Soren
