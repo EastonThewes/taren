@@ -20,28 +20,28 @@
 
 
 ## God List
-The Creator
+The Creator - Creation, Light, Potential
 
 Prime Ascended
-Aeris
-Khal
-Seren
-Thorn
+Aeris - Forge, Craft
+Khal - War, Valor
+Seren - Light, Healing
+Thorn - Nature, Beasts
 
 Middle Ascended
-Draen
-Marion
-Eloin
-Kaelir
-Verris
-Nisra
+Draen - Death, Grave
+Marion - Tempest, Sea
+Eloin - Knowledge, Secrets
+Kaelir - Freedom, Change
+Verris - Madness, Inspiration
+Nisra - Fate, Prophecy
 
 Recent Ascended
-Soren
-Luneth
-Aven
-Veyra
-Solmara
-Malric
+Soren - Hearth, Community
+Luneth - Knowledge, Memory
+Aven - Justice, Balance
+Veyra - Vengeance, Shadows
+Solmara - Hope, Inspiration
+Malric - Night, Space
 
 
