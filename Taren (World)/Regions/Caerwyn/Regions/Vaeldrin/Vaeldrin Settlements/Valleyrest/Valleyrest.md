@@ -37,3 +37,4 @@ darkmode: false ### marker
 | [[Darrik Holm]]     | Male Human Carpenter                                                                                                |
 | [[Ethel Baines]]    | Female Human, The one who loses her son                                                                             |
 | [[Tommy Baines]]    | Human boy who gets lost                                                                                             |
+|                     |                                                                                                                     |
