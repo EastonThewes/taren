@@ -1,4 +1,3 @@
-
 ## Map
 
 ```leaflet  
@@ -40,3 +39,7 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Ethel Baines]]    | Female Human, The one who loses her son                                                                             |
 | [[Tommy Baines]]    | Human boy who gets lost                                                                                             |
 |                     |                                                                                                                     |
+
+
+## Notes
+
