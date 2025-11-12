@@ -14,7 +14,6 @@
 Plan to end session here after they give him back to mom.
 
 - The next morning animals seem to be in a panic?
-- Someone comes in to the tavern saying that their 
 - The pulse awakes a low level undead orcish mage who resurrects some orc warriors to build back up the army.
 - This undead orc mage exists in another crypt a bit further away from the current one.
 - His goals: build back up the army, destroy anything, get back to what's his name. He'd probably spend the next few sessions sending warriors to attack caravans to gather supplies. So a few caravans heading into and leaving *[[Valleyrest]]* are attacked.
