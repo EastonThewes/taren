@@ -9,3 +9,4 @@
 - *Generic Dungeon Fun*
 - Right when they're about to enter into the room with the alter they hear the boy talking. He's reading an ancient book. When the characters arrive, they see the book float into the air and then explode and a wave of energy shoots out. This shock will be noticed from hundreds of miles away.
 - They are shook up and then take the boy back to the town
+- The pulse awakes a low level undead orcish mage who resurrects some orc warriors to build back up the army.
