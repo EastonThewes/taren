@@ -37,7 +37,7 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Ping]]            | Goblin Bard who plays the piano at _[[The Valley's Rest]]_                                                          |
 | [[Darrik Holm]]     | Male Human Carpenter                                                                                                |
 | [[Ethel Baines]]    | Female Human, The one who loses her son                                                                             |
-| [[Tommy Baines]]    | Human boy who gets lost                                                                                             |
+| [[Tomas Baines]]    | Human boy who gets lost                                                                                             |
 |                     |                                                                                                                     |
 
 
