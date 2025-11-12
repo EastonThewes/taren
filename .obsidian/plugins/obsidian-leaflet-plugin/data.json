@@ -27,7 +27,7 @@
     },
     {
       "id": "ValleyRest",
-      "lastAccessed": 1762541454399,
+      "lastAccessed": 1762979374815,
       "markers": [
         {
           "id": "ID_0a48f93a2848",
@@ -68,9 +68,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Taren (World)/Regions/Caerwyn/Regions/Vaeldrin/Vaeldrin Settlements/Valleyrest/Valleyrest.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
