@@ -1,2 +1,2 @@
 ## The Tavern
-The players find themselves at *[[The Valley's Rest]]* on a rainy evening
+The players find themselves at *[[The Valley's Rest]]* on a rainy evening. Its a quiet night, a soft piano is playing in the background as about twenty-odd people enjoy their meals and ale.
