@@ -8,7 +8,7 @@
 - The dungeon sits in a rock wall. The entrance a collapsed stone arch, boards split outward. It is obvious that there was an attempt to board it up, but it literally seems like its busting out of the mountain.
 - Carvings in the wall depicting orcs worshipping a star?
 - *Generic Dungeon Fun Time* 
-- This dungeon was part of the ancient orc empire and was used as a ritual site for some lower level casters. One is 
+- This dungeon was part of the ancient orc empire and was used as a ritual site for some lower level casters. Two of them are 
 - Right when they're about to enter into the room with the alter they hear the boy talking. He's reading an ancient tome. When the characters arrive, they see the book floats into the air and then explodes and a wave of astral–necrotic energy tears outward; stalactites shake; faint echo of a roar far beyond the material plane. shoots out. This shock will be noticed from hundreds of miles away. Tome falls, charred, but glowing faintly with runes, partial content can be deciphered later.
 - Return Tomas to town. He’s feverish, mutters in his sleep (“The eye opens,” “The forge calls”).
 
