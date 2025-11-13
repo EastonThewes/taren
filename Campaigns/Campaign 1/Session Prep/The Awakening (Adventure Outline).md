@@ -4,8 +4,36 @@ The players find themselves at *[[The Valley's Rest]]* on a rainy evening. Its a
 
 *[[Ethel Baines]]* bursts through the door, drenched from the rain, looking frantic and breathing heavy.
 
-Read this to the players
+Read this to the players:
 
-> As your listening to the soft lull of the piano play and enjoying your meal, the door that leads into The Valley's Rest bursts open slamming into the wall. Everyone in the bar turns their head and see standing in the doorway is a small human woman, drenched from the rain and franticly walking into the tavern.
-> "He's went in. Oh my he went in there." she says. "Who did? Ethel who went in?" says Ferrin from behind the bar. "Tomas. He went into the ruins. Those stupid boys dared him to go in and he did.". When she says this the whole tavern goes silent. She starts walking around the tavern, "Please you have to help me"
+The soft hum of conversation blends with the gentle melody of a piano in the corner. The rain outside beats against the windows, steady and soothing — a quiet evening in _The Valley’s Rest._ The fire crackles, glasses clink, and the smell of roasted meat and ale fills the air.
+
+Then, **the door slams open.**
+
+The sudden crash silences the room. Wind and rain whip into the tavern as a small, soaked woman stumbles through the doorway. Her eyes are wide, red-rimmed, and frantic.
+
+> "He’s gone in! Oh gods, he’s gone in there!”
+
+A heavy pause lingers before Ferrin Bright, the tavern’s broad-shouldered owner, looks up from behind the bar. His voice, calm but sharp, cuts through the tension.
+
+> "Who did, Ethel? Slow down, who went in?”
+
+She wrings her hands, trembling.
+
+> "Tomas. He—he went into the ruins. Those stupid boys dared him, and he went!”
+
+The piano stops. The chatter dies completely. Every eye in the tavern turns toward her.
+
+Ferrin’s expression darkens — not with surprise, but with the weight of old fear.
+
+> "The ruins? Gods below…”
+
+Ethel’s voice cracks as she looks from face to face.
+
+> "Please. Please, someone has to help me. He’s just a boy.”
+
+The silence that follows is heavy, the kind that says everyone knows what happens to those who go near that place.
+
+Ferrin Bright pushes himself from behind the bar, his apron streaked with soot and ale. His hands rest on the counter and his amber eyes sweep the room.
+
 >
