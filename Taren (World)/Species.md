@@ -1,6 +1,6 @@
 Dragonborn
 Dwarf
-Elf
+Elf - 400 year life spans
 Gnome
 Goliath
 Halfling
