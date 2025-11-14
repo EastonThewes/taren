@@ -50,7 +50,7 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | Faran Leagallow     | Male Halfling                                                                                                       |
 | Anne Leagallow      | Female Halfling                                                                                                     |
 | Richard Peyton      | Human Male                                                                                                          |
-| Jane Hallwell       | Human Femal                                                                                                         |
+| Jane Hallwell       | Human Female                                                                                                        |
 
 ## Notes
 
