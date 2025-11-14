@@ -1,3 +1,4 @@
+
 ## Map
 
 ```leaflet  
@@ -44,6 +45,8 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | Jane Deighton       | Female Human                                                                                                        |
 | Helen Harper        | Female Human                                                                                                        |
 | Victor Goblinbane   | Male Dwarf                                                                                                          |
+| Faran Leagallow     | Male Halfling                                                                                                       |
+| Anne Leagallow      | Female Halfling                                                                                                     |
 
 ## Notes
 
