@@ -7,5 +7,6 @@
   "homepage",
   "obsidian-leaflet-plugin",
   "obsidian-meta-bind-plugin",
-  "omnisearch"
+  "omnisearch",
+  "automatic-table-of-contents"
 ]
