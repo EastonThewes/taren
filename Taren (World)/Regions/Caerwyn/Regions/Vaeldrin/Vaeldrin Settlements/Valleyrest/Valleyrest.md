@@ -38,8 +38,8 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Darrik Holm]]     | Male Human Carpenter                                                                                                |
 | [[Ethel Baines]]    | Female Human, The one who loses her son                                                                             |
 | [[Tomas Baines]]    | Human boy who gets lost                                                                                             |
-|                     |                                                                                                                     |
-
+| Galid Tnosh         | Half-Orc                                                                                                            |
+| Adrian Horineth     |                                                                                                                     |
 
 ## Notes
 
