@@ -40,12 +40,13 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Darrik Holm]]     | Male Human Carpenter                                                                                                |
 | [[Ethel Baines]]    | Female Human, The one who loses her son                                                                             |
 | [[Tomas Baines]]    | Human boy who gets lost                                                                                             |
-| Galid Tnosh         | Male Half-Orc                                                                                                       |
+| Galid Tnosh         | Male Half-Orc. Apprentice to *[[Bram Weller]]*. Hopes to one day run the smithy as good as him. Mid-20's            |
 | Adrian Horineth     | Male Elf                                                                                                            |
 | Ahlyssa Harley      | Female Human                                                                                                        |
 | Jane Deighton       | Female Human                                                                                                        |
+| Greg Harper         | Male Human                                                                                                          |
 | Helen Harper        | Female Human                                                                                                        |
-| Hulmilyn Goblinbane |                                                                                                                     |
+| Hulmilyn Goblinbane | Female Dwarf                                                                                                        |
 | Victor Goblinbane   | Male Dwarf                                                                                                          |
 | Faran Leagallow     | Male Halfling                                                                                                       |
 | Anne Leagallow      | Female Halfling                                                                                                     |
