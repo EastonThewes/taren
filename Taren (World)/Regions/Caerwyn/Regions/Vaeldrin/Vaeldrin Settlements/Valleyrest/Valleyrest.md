@@ -43,6 +43,7 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | Galid Tnosh         | Male Half-Orc. Apprentice to *[[Bram Weller]]*. Hopes to one day run the smithy as good as him. Mid-20's            |
 | Adrian Horineth     | Male Elf                                                                                                            |
 | Ahlyssa Harley      | Female Human                                                                                                        |
+| Rilan Deignton      | Male HUman                                                                                                          |
 | Jane Deighton       | Female Human                                                                                                        |
 | Greg Harper         | Male Human                                                                                                          |
 | Helen Harper        | Female Human                                                                                                        |
