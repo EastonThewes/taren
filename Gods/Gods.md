@@ -18,22 +18,24 @@
 - Conflict is common: domains can encroach on one another, and ambition drives divine politics.
 - The Creator is absent but ever-present, the “sun” around which all divinity orbits.
 
+Nature, Knowledge, Life, War, Trickery, Tempest, Death, Life, Light, Forge
 
 ## God List
 The Creator - Creation, Light, Potential
 
 Prime Ascended
 Aeris - Forge, Craft
-Khal - War, Valor
-Seren - Light, Healing
+Khal - War
+Serreth - Light, Healing
 Thorn - Nature, Beasts
+
 
 Middle Ascended
 Draen - Death, Grave
 Marion - Tempest, Sea
 Eloin - Knowledge, Secrets
 Kaelir - Freedom, Change
-Verris - Madness, Inspiration
+Verris - War, Madness, 
 Nisra - Fate, Prophecy
 
 Recent Ascended
