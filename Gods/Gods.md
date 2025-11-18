@@ -24,20 +24,27 @@ Nature, Knowledge, Healing, Life, War, Trickery, Tempest, Death, Life, Light, Fo
 Elil - Life, Light
 
 **Prime Ascended**
-Life, Death, War
-Serreth () - The Goddess of Health and Healing - Life, Nature
-Draen - The God of Death
+*Life, Death, War, and Nature*
+Serreth (NG) - The Goddess of Health and Healing - Life
+Draen (NE) - The God of Death - Death
+Khal (LE) - The God of War and Discord - War
+Thorn (N) - The God of Nature - Nature
+
+**Middle Ascended**
+Elowyn (N) - The Goddess of Magic - Knowledge
+Luneth (N) - The Goddess of Stars and Wanderers - Knowledge
+
+
 
 
 Aeris - Forge, Craft
-Khal - War
-Serreth - Healing
-Thorn - Nature, Beasts
+
+
+
 
 **Middle Ascended**
-Draen - Death, Grave
 Marion - Tempest, Sea
-Eloin - Knowledge, Secrets
+
 Kaelir - Freedom, Change
 Verris - War, Madness, 
 Nisra - Fate, Prophecy
