@@ -26,7 +26,7 @@ darkmode: false ### marker
 
 ## People
 
-Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Half-Orcs
+Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Half-Orcs, single gnome family
 
 | Name                | Description                                                                                                         |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
