@@ -21,7 +21,7 @@
 ## God List
 
 **The Creator God**
-Elil - The God of Sun and Healing - Life, Light
+Elil (N) - The God of Life and Light - Life, Light
 
 **Prime Ascended**
 Serreth (NG) - The Goddess of Good Health and Healing - Life
@@ -41,7 +41,7 @@ Kaelir (N) - The God of Revelry - Trickery
 
 **Recent Ascended**
 Soren (LG) - The Goddess of Peace and Reason - Knowledge
-Verris (CE) - The God of Envy and Slaughter - War
+[[Verris]] (CE) - The God of Envy and Slaughter - War
 Aeris (LG) - God of Chivalry and Valor - Forge, War
 Malric (CG) - The God of Athletics and Sport - Tempest, War
 Thulios (NE) - The God of Plague and Famine - Death
