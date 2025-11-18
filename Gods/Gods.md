@@ -33,9 +33,13 @@ Thorn (N) - The God of Nature - Nature
 **Middle Ascended**
 Elowyn (N) - The Goddess of Magic - Knowledge
 Luneth (N) - The Goddess of Stars and Wanderers - Knowledge
-Solmara (N) - The Goddess of Fate and Destiny
+Nisra (N) - The Goddess of Fate and Destiny
+
+Aven (LG) - The God of Light and Law - Light
+Soren (LG) - The Goddess of Peace and Reason - Knowledge
 
 
+Solmara
 
 
 
@@ -49,7 +53,7 @@ Marion - Tempest, Sea
 
 Kaelir - Freedom, Change
 Verris - War, Madness, 
-Nisra - Fate, Prophecy
+
 
 **Recent Ascended**
 Soren - Hearth, Community
