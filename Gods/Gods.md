@@ -21,11 +21,11 @@
 Nature, Knowledge, Healing, Life, War, Trickery, Tempest, Death, Life, Light, Forge
 
 ## God List
-Elil - Life, Light
+Elil - The God of Sun and Healing - Life, Light
 
 **Prime Ascended**
 *Life, Death, War, and Nature*
-Serreth (NG) - The Goddess of Health and Healing - Life
+Serreth (NG) - The Goddess of Good Health and Healing - Life
 Draen (NE) - The God of Death - Death
 Khal (LE) - The God of War and Discord - War
 Thorn (N) - The God of Nature - Nature
@@ -42,9 +42,11 @@ Marron (NG) - The God of Horizons and Travel - Knowledge, Trickery
 Aeris (LG) - God of Chivalry and Valor - War
 
 Malric (CG) - The God of Athletics and Sport - Tempest, War
-
-
-
+Thulios (NE) - The God of Plague and Famine - Death
+Sithar (CE) - The God of Pain and Oppression - Death
+Kaelir (N) - The God of Revelry - Trickery
+Veyra (CN) - The Goddess of Ill Luck and Insanity - Trickery
+Oana (LN) - The Goddess of Common Sense and Zeal
 
 
 
@@ -52,16 +54,15 @@ Malric (CG) - The God of Athletics and Sport - Tempest, War
 
 
 **Middle Ascended**
-Marion - Tempest, Sea
 
-Kaelir - Freedom, Change
+
+
 
 
 
 **Recent Ascended**
 
-Veyra - Vengeance, Shadows
-Solmara - Hope, Inspiration
+
 
 
 
