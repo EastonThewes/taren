@@ -32,7 +32,7 @@ Thorn (N) - The God of Nature - Nature
 **Middle Ascended**
 Elowyn (N) - The Goddess of Magic - Knowledge
 Luneth (N) - The Goddess of Stars and Wanderers - Knowledge
-Nisra (N) - The Goddess of Fate and Destiny
+Nisra (N) - The Goddess of Fate and Destiny - Knowledge
 Viara (NG) - The Goddess of Woodlands - Life, Nature
 Aven (LG) - The God of Light and Law - Light
 Marron (NG) - The God of Horizons and Travel - Knowledge, Trickery
@@ -42,7 +42,7 @@ Kaelir (N) - The God of Revelry - Trickery
 **Recent Ascended**
 Soren (LG) - The Goddess of Peace and Reason - Knowledge
 Verris (CE) - The God of Envy and Slaughter - War
-Aeris (LG) - God of Chivalry and Valor - War
+Aeris (LG) - God of Chivalry and Valor - Forge, War
 Malric (CG) - The God of Athletics and Sport - Tempest, War
 Thulios (NE) - The God of Plague and Famine - Death
 Sithar (CE) - The God of Pain and Oppression - Death
