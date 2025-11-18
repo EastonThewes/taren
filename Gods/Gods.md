@@ -18,19 +18,23 @@
 - Conflict is common: domains can encroach on one another, and ambition drives divine politics.
 - The Creator is absent but ever-present, the “sun” around which all divinity orbits.
 
-Nature, Knowledge, Life, War, Trickery, Tempest, Death, Life, Light, Forge
+Nature, Knowledge, Healing, Life, War, Trickery, Tempest, Death, Life, Light, Forge
 
 ## God List
-The Creator - Creation, Light, Potential
+Elil - Life, Light
 
-Prime Ascended
+**Prime Ascended**
+Life, Death, War
+Serreth () - The Goddess of Health and Healing - Life, Nature
+Draen - The God of Death
+
+
 Aeris - Forge, Craft
 Khal - War
-Serreth - Light, Healing
+Serreth - Healing
 Thorn - Nature, Beasts
 
-
-Middle Ascended
+**Middle Ascended**
 Draen - Death, Grave
 Marion - Tempest, Sea
 Eloin - Knowledge, Secrets
@@ -38,7 +42,7 @@ Kaelir - Freedom, Change
 Verris - War, Madness, 
 Nisra - Fate, Prophecy
 
-Recent Ascended
+**Recent Ascended**
 Soren - Hearth, Community
 Luneth - Knowledge, Memory
 Aven - Justice, Balance
