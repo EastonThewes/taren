@@ -33,6 +33,8 @@ Thorn (N) - The God of Nature - Nature
 **Middle Ascended**
 Elowyn (N) - The Goddess of Magic - Knowledge
 Luneth (N) - The Goddess of Stars and Wanderers - Knowledge
+Solmara (N) - The Goddess of Fate and Destiny
+
 
 
 
@@ -51,7 +53,6 @@ Nisra - Fate, Prophecy
 
 **Recent Ascended**
 Soren - Hearth, Community
-Luneth - Knowledge, Memory
 Aven - Justice, Balance
 Veyra - Vengeance, Shadows
 Solmara - Hope, Inspiration
