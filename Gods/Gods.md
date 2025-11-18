@@ -34,16 +34,19 @@ Thorn (N) - The God of Nature - Nature
 Elowyn (N) - The Goddess of Magic - Knowledge
 Luneth (N) - The Goddess of Stars and Wanderers - Knowledge
 Nisra (N) - The Goddess of Fate and Destiny
-
+Viara (NG) - The Goddess of Woodlands - Life, Nature
 Aven (LG) - The God of Light and Law - Light
 Soren (LG) - The Goddess of Peace and Reason - Knowledge
+Verris (CE) - The God of Envy and Slaughter - War
+Marron (NG) - The God of Horizons and Travel - Knowledge, Trickery
+Aeris (LG) - God of Chivalry and Valor - War
+
+Malric (CG) - The God of Athletics and Sport - Tempest, War
 
 
-Solmara
 
 
 
-Aeris - Forge, Craft
 
 
 
@@ -52,14 +55,13 @@ Aeris - Forge, Craft
 Marion - Tempest, Sea
 
 Kaelir - Freedom, Change
-Verris - War, Madness, 
+
 
 
 **Recent Ascended**
-Soren - Hearth, Community
-Aven - Justice, Balance
+
 Veyra - Vengeance, Shadows
 Solmara - Hope, Inspiration
-Malric - Night, Space
+
 
 
