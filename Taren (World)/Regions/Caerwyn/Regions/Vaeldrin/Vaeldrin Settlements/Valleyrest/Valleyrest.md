@@ -42,8 +42,8 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Tomas Baines]]    | Human boy who gets lost                                                                                             |
 | Galid Tnosh         | Male Half-Orc. Apprentice to *[[Bram Weller]]*. Hopes to one day run the smithy as good as him. Mid-20's            |
 | Adrian Horineth     | Male Elf                                                                                                            |
-| Ahlyssa Harley      | Female Human                                                                                                        |
-| Rilan Deignton      | Male HUman                                                                                                          |
+| Ahlyssa Harley      | Female Human - Server at Valley's Rest                                                                              |
+| Rilan Deignton      | Male Human                                                                                                          |
 | Jane Deighton       | Female Human                                                                                                        |
 | Greg Harper         | Male Human                                                                                                          |
 | Helen Harper        | Female Human                                                                                                        |
