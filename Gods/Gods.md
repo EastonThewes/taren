@@ -18,8 +18,6 @@
 - Conflict is common: domains can encroach on one another, and ambition drives divine politics.
 - The Creator is absent but ever-present, the “sun” around which all divinity orbits.
 
-Nature, Knowledge, Healing, Life, War, Trickery, Tempest, Death, Life, Light, Forge
-
 ## God List
 
 **The Creator God**
