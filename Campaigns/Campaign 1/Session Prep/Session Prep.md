@@ -4,7 +4,7 @@
 - Players start out in the *[[The Valley's Rest]]* in the evening on a rainy day
 - Start with Mason's character relaxing at the bar when his younger brother comes in asking him about him leaving. Saying that his sister tried to hide it from him so that he would not be hurt.
 - Before he leaves, he lets Mason's character know that his oldest brother left for Rivermere months ago.
-- Then hunter
+- Then Hunter's character will probably walk in
 - After some role playing, *[[Ethel Baines]]* runs in and is in frantic, delirious state. Here son, *[[Tomas Baines]]* has gone missing and she has been told by his friends that he went into the sealed cave after they dared him.
 - She begs any and everyone to please go look for her son. Most people refuse to go in there, saying that by now he's probably already dead. Saying that that place is 'cursed' This is the lead in for the players to pop up and be heroes
 - The players should head towards the dungeon. Have them roll a **survival** or **nature** check to see how fast they get there
