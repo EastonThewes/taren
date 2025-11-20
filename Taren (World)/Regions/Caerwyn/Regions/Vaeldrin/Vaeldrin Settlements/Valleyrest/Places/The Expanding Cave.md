@@ -1,2 +1,2 @@
 # Overview
-This cave houses an ancient dungeon
+This cave holds an ancient dungeon that for the last 20 years seems to be expanding out of the mountain that it sits in. Several attempts have been made to board up the entrance and bury it, but it always seems to break free. The people of *[[Valleyrest]]* are forbidden to enter the cave due to some deaths 
