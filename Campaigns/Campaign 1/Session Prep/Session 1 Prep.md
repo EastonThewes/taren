@@ -16,6 +16,9 @@ Conversation Notes
 - Then Hunter's character will probably walk in
 - After some role playing, *[[Ethel Baines]]* runs in and is in frantic, delirious state. Here son, *[[Tomas Baines]]* has gone missing and she has been told by his friends that he went into the sealed cave after they dared him.
 - She begs any and everyone to please go look for her son. Most people refuse to go in there, saying that by now he's probably already dead. Saying that that place is 'cursed' This is the lead in for the players to pop up and be heroes
+
+- On the way to the adventure, have some wolves attack
+
 - The players should head towards the dungeon. Have them roll a **survival** or **nature** check to see how fast they get there
 - The dungeon sits in a rock wall. The entrance a collapsed stone arch, boards split outward. It is obvious that there was an attempt to board it up, but it literally seems like its busting out of the mountain.
 - Carvings in the wall depicting orcs worshipping a star?
