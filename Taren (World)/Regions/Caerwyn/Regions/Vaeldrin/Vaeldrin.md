@@ -1,5 +1,5 @@
 ## Locations
 
 ## Settlements
-[[Rivermere]]
+[[Taren (World)/Regions/Caerwyn/Regions/Vaeldrin/Vaeldrin Settlements/Rivermere/Rivermere]]
 [[Valleyrest]]

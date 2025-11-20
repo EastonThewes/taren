@@ -1,10 +1,14 @@
 # Session 1
 
-**Timeline of Events**
+## **Timeline of Events**
 - Players start out in the *[[The Valley's Rest]]* in the evening on a rainy day
 - Carrick (Mason) is already there enjoying some food and drink, waiting for Moses (Hunter) to arrive
 - Ask Mason what his character is doing and some descriptions.
-- In walks Carrick's youngest brother, Taren Varren, walks in
+- In walks Carrick's youngest brother, Taren Varren, walks in and approaches Carrick
+
+Conversation Notes
+> "Seris says you're heading for Rivermere tomorrow. She tried to hide the letter hoping to spare my feelings but I found it."
+> "Lysaen left "
 
 
 - Start with Mason's character relaxing at the bar when his younger brother comes in asking him about him leaving. Saying that his sister tried to hide it from him so that he would not be hurt.
