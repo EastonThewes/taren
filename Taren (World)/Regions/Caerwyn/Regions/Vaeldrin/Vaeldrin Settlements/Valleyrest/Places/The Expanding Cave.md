@@ -41,7 +41,7 @@ As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair t
 *Allow them to RP*
 
 > [!quote]
->***Cut to ***
+>***Cut to a couple tables over from Carrick and Moses, we see a Drow man sitting alone at a table with a stack of books and a small map open on the table ***
 
 *Pan over*
 
