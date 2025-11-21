@@ -52,4 +52,7 @@ As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair t
 *If the group doesn't bite*
 
 > [!quote]
->***"Ethel sees Carrick. 'Carrick please I know you're a good man, my boy might be dead in there, but I can't leave him until I know. I need you to find him for me.'. Ethel starts reaching into a small sa" ***
+>***"She frantically looks around and pulls out a small sack she has,'10 gold for the ones that find my boy. This is all I have.' " ***
+
+*Hopefully they bite on this*
+
