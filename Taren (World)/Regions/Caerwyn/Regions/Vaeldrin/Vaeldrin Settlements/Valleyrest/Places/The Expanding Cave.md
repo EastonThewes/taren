@@ -5,6 +5,13 @@ This cave holds an ancient dungeon that for the last 20 years seems to be expand
 # The Tavern
 The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rainy day. There are about thirty people gathered in the tavern enjoying dinner and socializing. 
 
+***"Establishing exterior shot of The Valley's Rest. A gentle rain falls over the cozy inn as a warm orange glow shines through the windows and reflects off the damp cobblestone."***
+
+***From outside the frame ***
+
+
+
+
 Carrick is already in the tavern, enjoying some food and drink when his younger brother, Taren enters. He approaches Carrick and takes a seat.
 
 Conversation Beats:
@@ -26,7 +33,7 @@ As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair t
 
 *Allow them to RP some*
 
-
+*Pan over*
 
 Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She looks distressed and enters into the tavern. All eyes are on her as she says
 
