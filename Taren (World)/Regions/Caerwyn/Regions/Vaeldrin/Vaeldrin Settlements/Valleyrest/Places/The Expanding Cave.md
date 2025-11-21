@@ -14,7 +14,19 @@ Taren reading the letter.
 Lysaen left for Rivermere also
 > "Are you going to see Lysaen when you're in the city?"
 > "Lysaen left for Rivermere a few weeks back. I take it he didn't stop to say goodbye?"
-> "Father said that it was time that he proved himself at the _[[Rivermere Arcane Institution|institution]]_. That Lysaen was reaching the limits of father's teachings and that he would benefit studying under one of the scholars. A Doctor Rivian I believe."
+> "Father said that it was time that he proved himself at the _[[Rivermere Arcane Institution|institution]]_. That Lysaen was reaching the limits of father's teachings and that he would benefit studying under one of the scholars. A *[[Doctor Rivian]]* I believe."
+
+Leaving
+> "I best go before they start looking for me. I snuck out of my room and ran down here. I suspect Seris is probably freaking out about now."
+> "Have fun in Rivermere, I know you'll find yourself there."
+
+Taren leaves.
+
+As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair that Taren was just occupying
+
+*Allow them to RP some*
+
+
 
 Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She looks distressed and enters into the tavern. All eyes are on her as she says
 
