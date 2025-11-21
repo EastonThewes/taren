@@ -7,6 +7,7 @@ The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rain
 
 Carrick is already in the tavern, enjoying some food and drink when his younger brother, Taren enters. He approaches Carrick and takes a seat.
 
+Conversation Beats
 > "Seris says you're heading for Rivermere tomorrow. She tried to hide the letter hoping to spare my feelings."
 
 Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She looks distressed and enters into the tavern. All eyes are on her as she says
