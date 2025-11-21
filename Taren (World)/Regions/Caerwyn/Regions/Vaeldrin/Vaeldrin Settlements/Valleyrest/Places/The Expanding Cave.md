@@ -6,8 +6,7 @@ This cave holds an ancient dungeon that for the last 20 years seems to be expand
 The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rainy day. There are about thirty people gathered in the tavern enjoying dinner and socializing. 
 
 
-
-> [!READ]
+> [!quote]
 > ***"Establishing exterior shot of The Valley's Rest. A gentle rain falls over the cozy inn as a warm orange glow shines through the windows and reflects off the damp cobblestone."***
 > 
 >***"From outside the frame a man walks to the front door, opens it and steps inside. Cut to the inside of The Valley's Rest, lit by the flickering fireplace, casting a warm glow to the interior. A hum of chatter and conversation is had as the inn's tavern is filled, about thirty some people. The smell of roasted vegetables and spiced ale linger in the air. Our camera focuses on Carrick, as he brushes the rain off his shoulders. 'You're early.', the man behind the bar says as he's pouring a mug of ale. As he says that a half-orc man sitting at the bar turns around, raises his tankard to Carrick and turns back around continuing his conversation with Ferrin"***
@@ -16,7 +15,7 @@ The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rain
 
 Carrick is already in the tavern, enjoying some food and drink when his younger brother, Taren enters. He approaches Carrick and takes a seat.
 
-> [!READ]
+> [!quote]
 ***"The night moved gently as Carrick sits in his chair. Not before too long, the door to the tavern opens and in walks a man who you recognize Carrick. It is your younger brother, Taren. He spots you sitting in the back of the tavern and approaches you."***
 
 Conversation Beats:
@@ -36,7 +35,7 @@ Taren leaves.
 
 As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair that Taren was just occupying
 
-> [!READ]
+> [!quote]
 >***"With that, Taren give you a hug and leaves. As he's leaving he passes by another man you know, Moses. He approaches the table you're sitting at and fills the chair that Taren just did.***
 
 *Allow them to RP*
