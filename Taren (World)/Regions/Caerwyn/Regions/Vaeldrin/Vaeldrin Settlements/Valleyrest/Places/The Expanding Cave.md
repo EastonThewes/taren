@@ -3,4 +3,5 @@ This cave holds an ancient dungeon that for the last 20 years seems to be expand
 
 
 # The Tavern
-The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rainy day. There are about thirty people gathered in the tavern enjoy
+The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rainy day. There are about thirty people gathered in the tavern enjoying dinner and socializing. 
+Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She is hyperventil
