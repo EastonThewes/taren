@@ -40,6 +40,9 @@ As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair t
 
 *Allow them to RP*
 
+> [!quote]
+>***Cut to ***
+
 *Pan over*
 
 Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She looks distressed and enters into the tavern. All eyes are on her as she says
