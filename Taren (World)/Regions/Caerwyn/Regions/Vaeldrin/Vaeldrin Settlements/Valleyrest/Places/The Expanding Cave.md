@@ -7,8 +7,13 @@ The players are gathered at *[[Valleyrest]]* in the evening on a dreary and rain
 
 Carrick is already in the tavern, enjoying some food and drink when his younger brother, Taren enters. He approaches Carrick and takes a seat.
 
-Conversation Beats
+Conversation Beats:
+Taren reading the letter.
 > "Seris says you're heading for Rivermere tomorrow. She tried to hide the letter hoping to spare my feelings."
+
+Lysaen left for Rivermere also
+> "Lysaen left for Rivermere a few weeks back. I take it he didn't stop to say goodbye?"
+> "Father said that it was time that he proved himself at the _[[Rivermere Arcane Institution|institution]]_. That Lysaen was reaching the limits of father's teachings and that he would benefit studying under one of the scholars."
 
 Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She looks distressed and enters into the tavern. All eyes are on her as she says
 
