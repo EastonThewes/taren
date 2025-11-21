@@ -74,3 +74,12 @@ Here is the inciting incident:
 *Hopefully they bite on this*
 
 # Getting to the Dungeon
+
+Its dark and its raining out which will make it difficult to get there. Have them roll **survival** or **nature** with advantage for Mason and Hunter to get there. DC of 15
+
+If they pass they get there in fifteen minutes, if they fail it takes about thirty minutes. This affects if they get there when Tomas is reading the script or if it happens when they are halfway through the dungeon.
+
+They make it to the mouth of the cave and when they head in they see a stone door that has been pushed off its hinges and an attempt to board up the doorway with wood planks. There is a small gap where a child looks to be able to get through.
+
+*Ask how they would like to try to get in*
+If attacking, 
