@@ -1,3 +1,4 @@
+#adventure
 # Overview
 This cave holds an ancient dungeon that for the last 20 years seems to be expanding out of the mountain that it sits in. Several attempts have been made to board up the entrance and bury it, but it always seems to break free. The people of *[[Valleyrest]]* are forbidden to enter the cave due to some deaths that happened some years ago when some adventurers tried to explore it.
 
@@ -84,3 +85,4 @@ They make it to the mouth of the cave and when they head in they see a stone doo
 *Ask how they would like to try to get in*
 If attacking, AC15 to break through
 If strength, DC15 to rip it off the hinges
+
