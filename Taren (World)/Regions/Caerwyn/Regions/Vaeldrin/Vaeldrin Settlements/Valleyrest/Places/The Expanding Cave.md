@@ -47,10 +47,6 @@ As Taren leaves he passes by Moses as he's walking in. Moses sits in the chair t
 
 
 > [!quote]
->***"Smash cut, the door to the tavern suddenly flies open, standing in the doorway is a human woman, drenched from the rain outside. She looks distressed and slowly walks into the tavern. Everyone is turned and looking at her as she says 'He went in... he... went in there'. Ferrin behind the bar responds, 'Ethel, who went in?'. 'Tomas... those stupi"***
->
-Suddenly the door flies open an standing int he doorway is a Human woman, drenched from the rain outside. She looks distressed and enters into the tavern. All eyes are on her as she says
+>***"Smash cut, the door to the tavern suddenly flies open, standing in the doorway is a human woman, drenched from the rain outside. She looks distressed and slowly walks into the tavern. Everyone is turned and looking at her as she says 'He went in... he... went in there'. Ferrin behind the bar responds, 'Ethel, who went in?'. 'Tomas... those stupid boys dared him to go in there and he did.' she says as she stands there shaking. Ferrin asks again 'Where did Tomas go Ethel?'. 'The Cave...' she says. When she mutters those words you hear a audible gasp from a few of the patrons. 'Someone has to find him. I can't let me boy die in there' "***
 
-> "He went in... he... he went in..."
-
-The 
+*If the group d*
