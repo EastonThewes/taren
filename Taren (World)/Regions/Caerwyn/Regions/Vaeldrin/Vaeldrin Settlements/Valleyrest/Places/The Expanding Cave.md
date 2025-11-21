@@ -82,4 +82,5 @@ If they pass they get there in fifteen minutes, if they fail it takes about thir
 They make it to the mouth of the cave and when they head in they see a stone door that has been pushed off its hinges and an attempt to board up the doorway with wood planks. There is a small gap where a child looks to be able to get through.
 
 *Ask how they would like to try to get in*
-If attacking, 
+If attacking, AC15 to break through
+If strength, DC15 to rip it off the hinges
