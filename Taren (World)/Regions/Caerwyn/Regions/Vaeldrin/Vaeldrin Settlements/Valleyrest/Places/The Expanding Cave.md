@@ -25,8 +25,8 @@ Carrick is already in the tavern, enjoying some food and drink when his younger 
 > [!quote]
 ***"The night moved gently as Carrick sits in his chair. Not before too long, the door to the tavern opens and in walks a man who you recognize Carrick. It is your younger brother, Taren. He spots you sitting in the back of the tavern and approaches you."***
 
-Conversation Beats:
 Taren reading the letter.
+Conversation Beats:
 > "Seris says you're heading for Rivermere tomorrow. She tried to hide the letter hoping to spare my feelings."
 
 Lysaen left for Rivermere also
