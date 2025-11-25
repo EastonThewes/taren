@@ -1,6 +1,8 @@
 #prep
 # Session 1
 
+Running the *[[The Expanding Cave]]*
+
 ## **Timeline of Events**
 - Players start out in the *[[The Valley's Rest]]* in the evening on a rainy day
 - Carrick (Mason) is already there enjoying some food and drink, waiting for Moses (Hunter) to arrive
