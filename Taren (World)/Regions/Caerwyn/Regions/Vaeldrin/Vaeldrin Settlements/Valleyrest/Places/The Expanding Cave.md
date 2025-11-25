@@ -85,3 +85,12 @@ They make it to the mouth of the cave and when they head in they see a stone doo
 If attacking, AC15 to break through
 If strength, DC15 to rip it off the hinges
 
+# The Dungeon
+
+## Room 1:
+This is a mostly empty room. There are faded murals of a Orc empire on the walls. At the end of the room, guarding the door is a statue on the left and what appears to be is a missing statue on the right.
+
+The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
+
+## Room 2
+
