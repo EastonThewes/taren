@@ -95,7 +95,7 @@ This is a mostly empty room. There are faded murals of a Orc empire on the walls
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
 ## Room 2
-
+Forgotten barracks. In this room is old rusted weapons, broken bunks and empty armor racks. There are a few orc skeletons on the floor
 
 ## Room 3
 This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage. When the tomb sends out that energy, they break open of the sarcophagi
