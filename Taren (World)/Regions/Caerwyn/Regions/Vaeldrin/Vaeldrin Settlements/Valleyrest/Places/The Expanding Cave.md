@@ -96,6 +96,7 @@ The statue that is left is an animated statue, and when someone attempts to open
 
 ## Room 2
 
+
 ## Room 3
 This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage. When the tomb sends out that energy, they break open of the sarcophagi
 
