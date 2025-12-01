@@ -94,11 +94,19 @@ This is a mostly empty room. There are faded murals of a Orc empire on the walls
 
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
-## Room 2
-Forgotten barracks. In this room is old rusted weapons, broken bunks and empty armor racks. There are a few orc skeletons on the floor
+## Room 2 - Blood Wall
+As the characters enter into the room,
+
 
 ## Room 3
 This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage. When the tomb sends out that energy, they break open of the sarcophagi
 
 ## Room 4
 This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned
+
+## Room 5 - The Alter Room
+In this room is when they find the boy reading form the tomb right when he finishes it. It explodes, throws him 20ft and destroys the accompanying animated statue. 
+
+If the players stay too long in here, the undead orcs from room 3 will make their way into the alter room.
+
+The boy is put into a coma. Alive, but unresponsive to anything. His eyes are glossed over.
