@@ -90,7 +90,7 @@ If strength, DC15 to rip it off the hinges
 This is **Uma’s old forward lair** — a small ritual and training site for his orc army. It was designed to **test, train, and protect** his apprentices or champions, not necessarily as a high-level treasure vault. The dungeon is infused with residual necrotic and astral energy, so it reacts to living beings and magical intent. The “tome explosion” is the result of residual arcane power tied to Uma’s unfinished rituals.
 
 ## Room 1:
-This is a mostly empty room. There are faded murals of a Orc empire on the walls. At the end of the room, guarding the door is a statue on the left and what appears to be is a missing statue on the right.
+This is a mostly empty room. There are faded murals of a battle scene between Orcs and human like species. At the end of the room, guarding the door is a statue on the left and what appears to be is a missing statue on the right.
 
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
@@ -110,8 +110,8 @@ They are old and crumbly. DC20 strength check to move it by themselves. DC15 if 
 This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned.
 
 Investigation Check
-DC12 - Finding the cover a journal with all the pages ripped out titled "Experiments"
-DC17 - 
+DC12 - Finding the cover a journal with all the pages ripped out titled "Experiments" on the desk
+DC20 - A small half burned piece of paper, only revealing the letters a-g-g-e
 
 ## Room 5 - The Alter Room
 In this room is when they find the boy reading form the tomb right when he finishes it. It explodes, throws him 20ft and destroys the accompanying animated statue. 
