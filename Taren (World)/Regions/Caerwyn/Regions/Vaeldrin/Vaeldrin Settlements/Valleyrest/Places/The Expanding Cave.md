@@ -107,11 +107,17 @@ This room houses three sarcophagi, with two undead orc soldiers and a undead orc
 They are old and crumbly. DC20 strength check to move it by themselves. DC15 if aided
 
 ## Room 4
-This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned
+This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned.
+
+Investigation Check
+DC12 - Finding the cover a journal with all the pages ripped out titled "Experiments"
+DC17 - 
 
 ## Room 5 - The Alter Room
 In this room is when they find the boy reading form the tomb right when he finishes it. It explodes, throws him 20ft and destroys the accompanying animated statue. 
 
-If the players stay too long in here, the undead orcs from room 3 will make their way into the alter room.
+If the players stay too long in here, the undead orcs from room 3 will make their way into the alter room. If they move out quickly they'll have to fight them in the hallways
 
 The boy is put into a coma. Alive, but unresponsive to anything. His eyes are glossed over.
+
+
