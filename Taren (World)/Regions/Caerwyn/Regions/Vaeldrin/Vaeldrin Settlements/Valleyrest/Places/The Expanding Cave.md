@@ -94,8 +94,10 @@ This is a mostly empty room. There are faded murals of a Orc empire on the walls
 
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
-## Room 2 - Blood Wall
-As the characters enter into the room,
+## Room 2 - Blood Door
+As the characters enter into the room, they see a locked door with the words, "The key is found within your head, use the key to paint me red"
+
+The characters need to put their blood on the door in order to get it to open up
 
 
 ## Room 3
