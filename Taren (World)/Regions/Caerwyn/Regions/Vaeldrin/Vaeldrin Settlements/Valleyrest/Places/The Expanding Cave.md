@@ -95,13 +95,16 @@ This is a mostly empty room. There are faded murals of a Orc empire on the walls
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
 ## Room 2 - Blood Door
-As the characters enter into the room, they see a locked door with the words, "The key is found within your head, use the key to paint me red"
+As the characters enter into the room, they see a locked door with the words, *"What runs within you answers my call; touch me with it, and the way opens."*
 
 The characters need to put their blood on the door in order to get it to open up
 
+Inside here are a couple of skeletons
 
 ## Room 3
-This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage. When the tomb sends out that energy, they break open of the sarcophagi
+This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage. When the tomb sends out that energy, they break open of the sarcophagi.
+
+They are old and crumbly. DC20 strength check to move it by themselves. DC15 if aided
 
 ## Room 4
 This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned
