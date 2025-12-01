@@ -97,7 +97,7 @@ The statue that is left is an animated statue, and when someone attempts to open
 ## Room 2
 
 ## Room 3
-This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage.
+This room houses three sarcophagi, with two undead orc soldiers and a undead orc mage. When the tomb sends out that energy, they break open of the sarcophagi
 
 ## Room 4
 This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned
