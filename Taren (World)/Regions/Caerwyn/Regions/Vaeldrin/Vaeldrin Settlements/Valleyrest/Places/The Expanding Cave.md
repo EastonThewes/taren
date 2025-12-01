@@ -93,4 +93,4 @@ This is a mostly empty room. There are faded murals of a Orc empire on the walls
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
 ## Room 2
-Barracks? Bunks
+
