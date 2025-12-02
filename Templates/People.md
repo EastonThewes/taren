@@ -17,7 +17,7 @@
 #### Demeanor
 
 #### Behavior
-#### Motivations
+## Goals
 
 ## Information
 
