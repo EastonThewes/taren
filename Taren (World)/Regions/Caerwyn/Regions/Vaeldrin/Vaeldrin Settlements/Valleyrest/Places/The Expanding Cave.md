@@ -121,6 +121,6 @@ If the players stay too long in here, the undead orcs from room 3 will make thei
 The boy is put into a coma. Alive, but unresponsive to anything. His eyes are glossed over.
 
 ## Conclusion
-The boy is in some sort of magical coma, unresponsive but alive.
+The boy is in some sort of magical coma, unresponsive but alive. Return Tomas to the town. He’s feverish, mutters in his sleep (“The eye opens,” “The forge calls”).
 
 

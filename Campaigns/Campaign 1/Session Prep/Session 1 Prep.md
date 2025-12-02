@@ -1,9 +1,9 @@
 #prep
 # Session 1
 
-Running the *[[The Expanding Cave]]*'
+Running the *[[The Expanding Cave]]*
 
-Return Tomas to town. He’s feverish, mutters in his sleep (“The eye opens,” “The forge calls”).
+
 
 Plan to end session here after they give him back to mom.
 
