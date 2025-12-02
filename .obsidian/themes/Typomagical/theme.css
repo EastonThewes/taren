@@ -2065,10 +2065,6 @@ b,
   font-weight: var(--bold-weight);
 }
 
-.internal-link {
-  color: var(--interactive-accent);
-}
-
 .markdown-preview-view hr {
   border-width: 1px 0 0;
   border-style: dotted;
@@ -2454,6 +2450,13 @@ body:not(.ss-revert-highlight) .search-result-file-matched-text {
     var(--text-highlight-bg),
     var(--background-primary)
   );
+}
+
+:root,
+body,
+.view-content {
+  --link-color: #e7bc39;
+  --link-color-hover: #d9ae2c;
 }
 
 /*# sourceMappingURL=theme.css.map */
