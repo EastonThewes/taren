@@ -2,7 +2,7 @@
 
 **Location:** [[Valleyrest]]
 **Race:** Half-Elf
-**Age:** Mid 30's
+**Age:** Mid 40's
 **Appearance:** 
 
 **Backstory:**
