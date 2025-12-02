@@ -18,7 +18,7 @@
 - Hates liars but tolerates fools.
 - Collects maps and rumors in equal measure.
 - Secretly writes down travelers’ tales to make a “chronicle of the road.”
-- If trouble breaks out, he doesn’t panic—he starts assigning tasks like a commander.
+- If trouble breaks out, he doesn’t panic, he starts assigning tasks like a commander.
 - Keeps a short sword under the counter out of habit.
 ### Roleplay Notes
 #### Voice
@@ -37,9 +37,10 @@
 - If suspicious: wipes glass slower, doesn’t meet eyes.
 - If amused: smirks, exhales through nose, never laughs loud.
 - If nervous or remembering: fingers his old map pendant unconsciously.
-#### Motivations
-- Keeps peace in his tavern above all.
-- Values reliability; rewards honesty with information.
+
+## Goals
+
+
 ## Information
 - Hears all the town gossip
 - Knows the surrounding areas very well
