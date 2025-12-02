@@ -1,7 +1,7 @@
 #prep
 # Session 1
 
-
+Need to tell Hunter that his character looks up to the night sky and sees something in the stars... the word 'Aid'
 
 Running the *[[The Expanding Cave]]*
 
