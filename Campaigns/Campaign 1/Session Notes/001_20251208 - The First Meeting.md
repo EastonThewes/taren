@@ -39,7 +39,7 @@ No recap for the first session
 - [ ] When the energy was released from the tomb, [[Uma]] is now able to escape
 - [ ] [[Mol]], an arc-mage under [[Uma]], was brought back as an undead when the energy was released. He is going to try to attempt to speed up the process of bring [[Uma]] back using a ritual.
 - [ ] The burnt to the crisp tome is writing from [[Uma]] that [[Mol]] 
-- [ ] The ruins have only started pushing their way out of the mountain in the past twenty years. This is how it was original found when it started pushing into a known cave mine
+- [ ] The ruins have only started pushing their way out of the mountain in the past twenty years. This is how it was original found when it started pushing into a known cave
 
 ## Loot
 ---
