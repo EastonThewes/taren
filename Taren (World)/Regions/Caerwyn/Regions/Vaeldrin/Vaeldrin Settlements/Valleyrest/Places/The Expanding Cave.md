@@ -90,7 +90,7 @@ If strength, DC15 to rip it off the hinges
 This is **Uma’s old forward lair** — a small ritual and training site for his orc army. It was designed to **test, train, and protect** his apprentices or champions, not necessarily as a high-level treasure vault. The dungeon is infused with residual necrotic and astral energy, so it reacts to living beings and magical intent. The “tome explosion” is the result of residual arcane power tied to Uma’s unfinished rituals.
 
 ## Room 1:
-This is a mostly empty room. There are faded murals of a battle scene between Orcs and human like species. At the end of the room, guarding the door is a statue on the left and what appears to be is a missing statue on the right.
+This is a mostly empty room. There are murals of the night sky with orcs worshipping it. At the end of the room, guarding the door is a statue on the left and what appears to be is a missing statue on the right.
 
 The statue that is left is an animated statue, and when someone attempts to open the door, it attacks.
 
