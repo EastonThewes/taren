@@ -19,14 +19,15 @@ The Grand Merchant's Council is the ruling body of [[Vaeldrin]], based in the bu
 ## Leadership
 - The council is lead by the [[First Merchant]], which is elected every five years by council vote.
 - The [[First Merchant]] acts as the city's  chief diplomat and head of state
-
-
 ## Committees and Offices
 - [[The Guild Oversight Committee]] regulates trade, sets tariffs, arbitrates inter-guild disputes
 - [[The Treasury of Vaeldrin]] manages taxation, trade levies, and the council's coffers.
 - [[The Foreign Trade Office]] handles international trade agreements, treaties, and negotiations
 - [[The Watch of the Market]] is a small private militia that protects merchant's interests, enforces trade laws, and maintains order in the capital marketplaces
 # Culture and Influence
-- Councilers are businessmen first, politicians second. Most decisions benefit the profit of themselves before the stability of the city.
+- Councilors are businessmen first, politicians second. Most decisions benefit the profit of themselves before the stability of the city.
 - Wealthy merchants often sponsor public works, festivals, and charities to bolster prestige and influence.
-- Merchant families often manipulate elec
+- Merchant families often manipulate councilors for favors and laws that help them.
+- Guilds may lobby, extort, or “sponsor” councilors to gain favorable laws, tariffs, or trade concessions.
+- Smaller towns may be taxed heavily or extorted for their goods
+- The council focuses on [[Rivermere]] because wealth, trade, and prestige are centered here. Roads, security, and infrastructure in smaller towns may be neglected
