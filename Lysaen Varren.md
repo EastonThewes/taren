@@ -1,9 +1,11 @@
+
+![[LysaenVarren.png]]
 ## Biography
 
 **Location:** [[Rivermere]], [[Vaeldrin]]
 **Race:** Human
-**Age:** 
-**Appearance:**
+**Age:** 26
+**Appearance:** 
 
 **Backstory:**
 ## Personality
