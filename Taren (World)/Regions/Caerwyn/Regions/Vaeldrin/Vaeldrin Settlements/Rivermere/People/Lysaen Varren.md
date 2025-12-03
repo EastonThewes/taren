@@ -11,10 +11,9 @@
 **Backstory:**
 The oldest and favorite child of the Varren family.  Naturally gifted in the arcane arts and treated extremely well by his father, [[Theron Varren]]. Lysaen has had everything catered and cared for his entire life and is in turn became arrogant and spoiled.
 
-From a young child Lysaen has been personally tutored by his father
+From a young child Lysaen has been personally tutored by his father in the arcane arts
 ## Personality
 ---
-
 ### Roleplay Notes
 
 #### Voice
