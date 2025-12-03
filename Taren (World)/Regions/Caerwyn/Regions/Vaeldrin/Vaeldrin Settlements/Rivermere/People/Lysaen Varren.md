@@ -18,7 +18,7 @@ Growing up, Lysaen's father pushed him to his full potential, which meant that L
 
 As everyone grew older, Lysaen continued his studies with his father, still receiving majority of his attention as [[Theron Varren]] began to lose hope in [[Carrick Varren]], and seeing [[Seris Varren]] acting more as a peacekeeper of the family.
 
-Lysaen had just recently left for the [[Rivermere Arcane Institution]] 
+Lysaen had just recently left for the [[Rivermere Arcane Institution]] as he has reached the limit of what his father can teach him.
 ## Personality
 ---
 Lysaen's personality is a bit harsh. He is extremely proud of his brilliance, even if it brings some arrogance to himself. Due to his brilliance, Lysaen is witty and charming, usually able to get his way
@@ -26,15 +26,18 @@ Lysaen's personality is a bit harsh. He is extremely proud of his brilliance, ev
 ## Roleplay Notes
 ---
 #### Voice
-
+Witty, Charming, talks with a confidence in himself.
 #### Speech Habits
-
+Tries to correct any and everything someone says if he knows they're wrong.
 #### Demeanor
-
+Anytime he is talking to someone he believes is dumber than him, he acts uninterested and distracted.
 #### Behavior
+Does not like to be proven wrong and will get upset if he believes he isn't getting his way.
 ## Goals
 ---
-
+- [ ] Learn everything he can from [[Dr. Rivian Ashvauhn]]
+- [ ] Impress his father
+- [ ] Embarrass [[Carrick Varren]]
 
 ## Information
 ---

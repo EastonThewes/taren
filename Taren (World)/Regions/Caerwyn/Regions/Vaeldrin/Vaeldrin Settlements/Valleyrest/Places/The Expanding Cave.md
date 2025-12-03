@@ -33,7 +33,7 @@ Conversation Beats:
 Lysaen left for Rivermere also
 > "Are you going to see Lysaen when you're in the city?"
 > "Lysaen left for Rivermere a few weeks back. I take it he didn't stop to say goodbye?"
-> "Father said that it was time that he proved himself and his knowledge at the _[[Rivermere Arcane Institution|institution]]_. That Lysaen was reaching the limits of father's teachings and that he would benefit studying under one of the scholars. A *[[Doctor Rivian]]* I believe."
+> "Father said that it was time that he proved himself and his knowledge at the _[[Rivermere Arcane Institution|institution]]_. That Lysaen was reaching the limits of father's teachings and that he would benefit studying under one of the scholars. A *[[Dr. Rivian Ashvauhn]]* I believe."
 
 Leaving:
 > "I best go before they start looking for me. I snuck out of my room and ran down here. I suspect Seris is probably freaking out about now."
