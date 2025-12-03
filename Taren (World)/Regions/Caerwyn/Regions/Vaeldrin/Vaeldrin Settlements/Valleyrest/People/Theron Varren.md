@@ -4,9 +4,10 @@
 **Location:** [[Valleyrest]], [[Vaeldrin]]
 **Race:** Human
 **Age:** 58
-**Appearance:** 
+**Appearance:** Stern looking man. Aged.
 
 **Backstory:**
+Theron Varren is a wizard/archmage 
 ## Personality
 ---
 ### Roleplay Notes
