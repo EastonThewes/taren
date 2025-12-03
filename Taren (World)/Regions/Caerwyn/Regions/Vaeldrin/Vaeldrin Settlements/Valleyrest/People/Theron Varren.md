@@ -1,10 +1,10 @@
 ![[TheronVarren.png]]
 ## Biography
 ---
-**Location:**
-**Race:**
-**Age:**
-**Appearance:**
+**Location:** [[Valleyrest]], [[Vaeldrin]]
+**Race:** Human
+**Age:** 58
+**Appearance:** 
 
 **Backstory:**
 ## Personality
