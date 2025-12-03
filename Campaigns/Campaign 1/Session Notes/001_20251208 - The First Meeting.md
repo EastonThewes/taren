@@ -19,11 +19,11 @@ No recap for the first session
 
 ## Scenes
 ---
-- [ ] Moses seeing the phrase 'Aid' in the stars on his way to [[The Valley's Rest]]
-- [ ] Carrick speaking with his younger brother Taren about his older brother, Lysaen, heading to [[Rivermere]]
-- [ ] Carrick and Moses meet up
-- [ ] Kol Badar sitting at his table reading his maps and books
-- [ ] Nahlir coming down from his room into the tavern
+- [ ] [[Moses]] seeing the phrase 'Aid' in the stars on his way to [[The Valley's Rest]]
+- [ ] [[Carrick Varren]] speaking with his younger brother, [[Taren Varren]], about his older brother, [[Lysaen Varren]], heading to [[Rivermere]]
+- [ ] [[Carrick Varren]] and [[Moses]] meet up
+- [ ] [[Kol Badar ]]sitting at his table reading his maps and books
+- [ ] [[Nahlir]] coming down from his room into the tavern
 - [ ] [[Ethel Baines]] comes into the tavern screaming about her son,  [[Tomas Baines]] going into the dangerous ruins
 - [ ] The party finding their way to the ruins in the cold and dark
 - [ ] Three wolves attack them on the way to the ruins
