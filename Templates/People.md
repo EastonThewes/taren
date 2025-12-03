@@ -1,15 +1,17 @@
 ## Biography
-
+---
 **Location:**
 **Race:**
 **Age:**
+**Birthday:**
 **Appearance:**
+
 
 **Backstory:**
 ## Personality
-
+---
 ### Roleplay Notes
-
+---
 #### Voice
 
 #### Speech Habits
@@ -18,6 +20,7 @@
 
 #### Behavior
 ## Goals
+---
 
 ## Information
-
+---
