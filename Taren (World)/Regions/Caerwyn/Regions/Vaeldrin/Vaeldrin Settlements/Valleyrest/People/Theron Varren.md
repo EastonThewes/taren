@@ -7,7 +7,7 @@
 **Appearance:** Stern looking man. Aged.
 
 **Backstory:**
-Theron Varren is a wizard/archmage 
+Theron Varren is a wizard/archmage who lives in his estate 
 ## Personality
 ---
 ### Roleplay Notes
@@ -24,3 +24,4 @@ Theron Varren is a wizard/archmage
 
 ## Information
 ---
+Friends with [[Ekrin Nilve]], who serves on the [[The Grand Merchant's Council]]
