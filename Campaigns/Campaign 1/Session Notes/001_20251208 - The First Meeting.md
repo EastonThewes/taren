@@ -20,7 +20,7 @@ No recap for the first session
 ## Scenes
 ---
 - [ ] [[Moses]] seeing the phrase 'Aid' in the stars on his way to [[The Valley's Rest]]
-- [ ] [[Carrick Varren]] speaking with his younger brother, [[Taren Varren]], about his older brother, [[Lysaen Varren]], heading to [[Rivermere]]
+- [ ] [[Carrick Varren]] speaking with his younger brother, [[Taren Varren]], about his older brother, [[Lysaen Varren]], heading to [[Rivermere]] for the [[Rivermere Arcane Institution]]
 - [ ] [[Carrick Varren]] and [[Moses]] meet up
 - [ ] [[Kol Badar ]]sitting at his table reading his maps and books
 - [ ] [[Nahlir]] coming down from his room into the tavern
