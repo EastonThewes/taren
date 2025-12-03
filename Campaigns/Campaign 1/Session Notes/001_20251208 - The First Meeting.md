@@ -33,7 +33,7 @@ No recap for the first session
 
 ## Secrets and Clues
 ---
-- [ ] Uma had programmed the animated statues under his command. He was able to tap in the magic that controls them and was able to get the child to read from a tome that broke the seal that had been holding him in place
+- [ ] [[Uma]] had programmed the animated statues under his command. He was able to tap in the magic that controls them and was able to get the child to read from a tome that broke the seal that had been holding him in place
 - [ ] Murals painted of a orcish tribe worshipping a bright star in the sky
 - [ ] [[Ferrin Bright]] knows that the ruins are dangerous and that the town has banned anyone from going there
 - [ ] When the energy was released from the tomb, [[Uma]] is now able to escape
