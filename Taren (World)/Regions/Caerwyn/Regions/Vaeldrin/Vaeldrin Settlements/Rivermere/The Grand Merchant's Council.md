@@ -3,15 +3,20 @@ The Grand Merchant's Council is the ruling body of [[Vaeldrin]], based in the bu
 
 # Structure
 ## The Councilors of the Ledger
-- Each represents a major guild, merchant house, or trading house.
-- Membership is earned through wealth, influence, and reputation, not inheritance, but long standing houses often dominate the highest seats.
+- There are nine seats on the council, not counting the [[First Merchant]].
 - Seats are often bought or earned through large contributions to the city treasury or notable trade ventures
+
 ## Leadership
 - The council is lead by the [[First Merchant]], which is elected every five years by council vote.
 - The [[First Merchant]] acts as the city's  chief diplomat and head of state
+
 
 ## Committees and Offices
 - [[The Guild Oversight Committee]] regulates trade, sets tariffs, arbitrates inter-guild disputes
 - [[The Treasury of Vaeldrin]] manages taxation, trade levies, and the council's coffers.
 - [[The Foreign Trade Office]] handles international trade agreements, treaties, and negotiations
 - [[The Watch of the Market]] is a small private militia that protects merchant's interests, enforces trade laws, and maintains order in the capital marketplaces
+# Culture and Influence
+- Councilers are businessmen first, politicians second. Most decisions benefit the profit of themselves before the stability of the city.
+- Wealthy merchants often sponsor public works, festivals, and charities to bolster prestige and influence.
+- Merchant families often manipulate elec
