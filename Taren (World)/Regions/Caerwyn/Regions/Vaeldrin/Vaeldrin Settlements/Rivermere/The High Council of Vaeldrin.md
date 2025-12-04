@@ -3,8 +3,16 @@ The The High Council of Vaeldrin is the ruling body of [[Vaeldrin]], based in th
 # Structure
 ## The Council of Nine and High Speaker
 The [[Council of Nine]] are a council that works along side the [[High Speaker]].
+## The Council of Nine
+- Nine seats total
+- Each seat is filled individually
+- Any citizen may be appointed, though wealthy or influential individuals dominate
+## Appointment of a Councilor
+- A seat becomes vacant due to resignation, removal, death, or a council member seeking High Speakership
+### Nomination Phase
+- Any sitting Council member may nominate one candidate
+- A nomination must be seconded by a se
 
-### Appointment of a Councilor
 - Any citizen of [[Vaeldrin]] is technically eligible, but in practice, only individuals with significant wealth, backing, or political alliances receive consideration. Candidates are usually former patrons, influential nobles or landholders, prominent guild leaders, or retired military commanders.
 - When a seat becomes vacant, a candidate must be proposed by either an existing councilor
 - Majority vote is required by the remaining councilors. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
@@ -18,8 +26,10 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - Secret ballots may be used to allow councilors to vote without external pressure.
 - Extraordinary situations (war, economic crisis) may allow the First Merchant temporary emergency powers, but normal council procedures resume once the crisis passes.
 - Voting is rarely purely ethical. Bribes, economic leverage, blackmail, political pressure all play a factor.
-## Leadership
-- The council is lead by the [[High Speaker]], which is elected every five years by council vote.
+## Electing a High Speaker
+- The [[High Speaker]] is directly elected by the [[Council of Nine]] through a formal vote.
+- A candidate must receive two thirds majority (6 of 9) to be appointed.
+- The Council may not appoint one of their own members without first giving up their seart
 - The [[High Speaker]] acts as the city's  chief diplomat and head of state
 ## Committees and Offices
 - [[The Guild Oversight Committee]] regulates trade, sets tariffs, arbitrates inter-guild disputes
