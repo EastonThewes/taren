@@ -20,14 +20,17 @@ recenter: false
 darkmode: false ### marker
 ``
 # Biography
-Valleyrest is a small town of around 160 people. It is settled in the valley of two mountain ranges and acts a stop between
+Valleyrest is a small town of around 160 people. It is settled in the valley of two mountain ranges and acts a stop for people traveling between the two cities, [[Polsfield]] and [[Celes]].
+
+Most of the money made in [[Valleyrest]] comes from the passing by of merchants and others, spending their coin at [[The Valley's Rest]] for lodging. Other methods of income are small mines that produce a small amount of coal and iron, furs, and timber mined from a local forest.
+
+[[Valleyrest]]
 
 # Places
 [[The Valley's Rest]]
 [[Church of Soren]]
 
 ## People
-
 Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Half-Orcs, single gnome family
 
 | Name                    | Description                                                                                                         |
