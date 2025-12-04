@@ -1,24 +1,26 @@
 # Overview
-The Grand Merchant's Council is the ruling body of [[Vaeldrin]], based in the bustling capital, [[Rivermere]]. Unlike monarchies or military-led states, [[Vaeldrin]] is governed primarily by commerce. Wealth, trade influence, and the ability to control critical resources determine political power. Every major merchant house, guild, and trade consortium has representation, making the council both a legislative and executive authority.
-
+The The High Council of Vaeldrin is the ruling body of [[Vaeldrin]], based in the bustling capital, [[Rivermere]]. 
 # Structure
-## The Councilors of the Ledger
+## The Council of Nine and High Speaker
+The [[Council of Nine]] are a council that works along side the [[High Speaker]].
+
 ### Appointment of a Councilor
+- Any citizen of [[Vaeldrin]] is technically eligible, but in practice, only individuals with significant wealth, backing, or political alliances receive consideration. Candidates are usually former patrons, influential nobles or landholders, prominent guild leaders, or retired military commanders.
 - When a seat becomes vacant, a candidate must be proposed by either an existing councilor
-- Majority vote is required by the remaining councilors. If in the event of a tie, the [[First Merchant]] is the tie-breaker.
-- There are nine seats on the council, not counting the [[First Merchant]].
+- Majority vote is required by the remaining councilors. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
+- There are nine seats on the council, not counting the [[High Speaker]].
 - Technically, seats are awarded via a majority vote, but money is the real deciding factor.
 ### Removal of a Councilor
 - Any councilor can be proposed for removal due to misconduct, failure to maintain influence, or harm to the city
--  Majority vote is required by the remaining councilors. If in the event of a tie, the [[First Merchant]] is the tie-breaker.
+-  Majority vote is required by the remaining councilors. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
 ### Voting Notes
 - Abstentions are counted as non-votes and do not contribute to reaching a majority.
 - Secret ballots may be used to allow councilors to vote without external pressure.
 - Extraordinary situations (war, economic crisis) may allow the First Merchant temporary emergency powers, but normal council procedures resume once the crisis passes.
 - Voting is rarely purely ethical. Bribes, economic leverage, blackmail, political pressure all play a factor.
 ## Leadership
-- The council is lead by the [[First Merchant]], which is elected every five years by council vote.
-- The [[First Merchant]] acts as the city's  chief diplomat and head of state
+- The council is lead by the [[High Speaker]], which is elected every five years by council vote.
+- The [[High Speaker]] acts as the city's  chief diplomat and head of state
 ## Committees and Offices
 - [[The Guild Oversight Committee]] regulates trade, sets tariffs, arbitrates inter-guild disputes
 - [[The Treasury of Vaeldrin]] manages taxation, trade levies, and the council's coffers.

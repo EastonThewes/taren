@@ -24,4 +24,4 @@ Theron Varren is a wizard/archmage who lives in his estate
 
 ## Information
 ---
-Friends with [[Ekrin Nilve]], who serves on the [[The Grand Merchant's Council]]
+Friends with [[Ekrin Nilve]], who serves on the [[The High Council of Vaeldrin]]

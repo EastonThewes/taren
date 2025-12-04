@@ -5,4 +5,4 @@
 [[Valleyrest]]
 
 ## Organizations
-[[The Grand Merchant's Council]]
+[[The High Council of Vaeldrin]]
