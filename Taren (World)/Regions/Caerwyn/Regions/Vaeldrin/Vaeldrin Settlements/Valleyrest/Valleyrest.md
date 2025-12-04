@@ -24,7 +24,7 @@ Valleyrest is a small town of around 160 people. It is settled in the valley of 
 
 Most of the money made in [[Valleyrest]] comes from the passing by of merchants and others, spending their coin at [[The Valley's Rest]] for lodging. Other methods of income are small mines that produce a small amount of coal and iron, furs, and timber mined from a local forest.
 
-[[Valleyrest]]
+[[Valleyrest]] is a few hundred years old and has seen slow steady growth as [[Vaeldrin]] grows more powerful and trade increases.
 
 # Places
 [[The Valley's Rest]]
