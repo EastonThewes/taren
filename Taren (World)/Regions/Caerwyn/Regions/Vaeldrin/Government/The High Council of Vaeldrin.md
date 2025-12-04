@@ -1,5 +1,6 @@
 # Overview
 The The High Council of Vaeldrin is the ruling body of [[Vaeldrin]], based in the bustling capital, [[Rivermere]]. 
+
 [[The High Council of Vaeldrin Constitution]]
 # Structure
 ## The Council of Nine and High Speaker
@@ -68,4 +69,12 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - The Speaker may issue an executive directive.
 - The Council may veto it with a **simple majority** (5 votes).
 - If tied, the directive stands.
-
+## IV Civic and Noble Titles
+### Noble Ranks
+- High Patron: Wealthy nobles funding civic and public works
+- Riverlord/Riverlady: Nobles controlling trade along the river routes
+- Harbormaster: Title granted to merchant barons controlling docks
+- Steward of the Grainsfields: Nobles title tied to agriculture providences
+- Lord of the Marrow Hills: Mining noble title
+- Grand Arcanist of Vaeldrin: Accredited Nobles who study the Arcane
+### Merchant Class Titles
