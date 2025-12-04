@@ -1,5 +1,6 @@
 # Overview
 The The High Council of Vaeldrin is the ruling body of [[Vaeldrin]], based in the bustling capital, [[Rivermere]]. 
+[[The High Council of Vaeldrin Constitution]]
 # Structure
 ## The Council of Nine and High Speaker
 The [[Council of Nine]] are a council that works along side the [[High Speaker]].
