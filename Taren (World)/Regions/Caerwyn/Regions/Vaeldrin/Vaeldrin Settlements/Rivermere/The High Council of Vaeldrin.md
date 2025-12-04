@@ -7,8 +7,10 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - Nine seats total
 - Each seat is filled individually
 - Any citizen may be appointed, though wealthy or influential individuals dominate
+- There is a term length of 9 years with no limit on the number of terms
 ##  I.I Appointment of a Councilor
 - A seat becomes vacant due to resignation, removal, death, or a council member seeking High Speakership
+- If a member is appointed to a seat of a removed member, they finish out their term
 ### Nomination Phase
 - Any sitting Council member may nominate one candidate
 - A nomination must be seconded by a second member
@@ -16,18 +18,21 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - The winner requires a simple majority of the sitting council members to elect a new member
 - If multiple votes ties, the [[High Speaker]] casts the tie-breaking vote. If there is no [[High Speaker]], a simple majority is needed.
 - If a final vote ties, the [[High Speaker]] casts the tie-breaking vote. If there is no [[High Speaker]], a simple majority is needed.
+### Reelection
+- Every year one of the nine members if voted on to keep their seat, needing a simple majority to stay and a tie-breaking vote being casted by the [[High Speaker]]
 ### Eligibility
 - Any citizen of Vaeldrin can be chosen, but in practice, only individuals with significant wealth, backing, or political alliances receive consideration. Candidates are usually former patrons, influential nobles or landholders, prominent guild leaders, or retired military commanders.
 ### I.II Removal of a Councilor
 - Any councilor can be proposed for removal due to misconduct, failure to maintain influence, or harm to the city
-- 
--  Majority vote is required by the remaining councilors. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
+-  The Council must reach a simple majority in favor. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
+- Removed individuals may not serve again for five years of the removal date.
+-
 ### Voting Notes
 - Abstentions are counted as non-votes and do not contribute to reaching a majority.
 - Secret ballots may be used to allow councilors to vote without external pressure.
 - Extraordinary situations (war, economic crisis) may allow the First Merchant temporary emergency powers, but normal council procedures resume once the crisis passes.
 - Voting is rarely purely ethical. Bribes, economic leverage, blackmail, political pressure all play a factor.
-## Electing a High Speaker
+## II. Electing a High Speaker
 - The [[High Speaker]] is directly elected by the [[Council of Nine]] through a formal vote.
 - A candidate must receive two thirds majority (6 of 9) to be appointed.
 - The Council may not appoint one of their own members without first giving up their seart
