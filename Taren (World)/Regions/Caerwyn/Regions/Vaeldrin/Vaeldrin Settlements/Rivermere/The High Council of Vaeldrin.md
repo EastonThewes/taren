@@ -3,23 +3,24 @@ The The High Council of Vaeldrin is the ruling body of [[Vaeldrin]], based in th
 # Structure
 ## The Council of Nine and High Speaker
 The [[Council of Nine]] are a council that works along side the [[High Speaker]].
-## The Council of Nine
+## I. The Council of Nine
 - Nine seats total
 - Each seat is filled individually
 - Any citizen may be appointed, though wealthy or influential individuals dominate
-## Appointment of a Councilor
+##  I.I Appointment of a Councilor
 - A seat becomes vacant due to resignation, removal, death, or a council member seeking High Speakership
 ### Nomination Phase
 - Any sitting Council member may nominate one candidate
-- A nomination must be seconded by a se
-
-- Any citizen of [[Vaeldrin]] is technically eligible, but in practice, only individuals with significant wealth, backing, or political alliances receive consideration. Candidates are usually former patrons, influential nobles or landholders, prominent guild leaders, or retired military commanders.
-- When a seat becomes vacant, a candidate must be proposed by either an existing councilor
-- Majority vote is required by the remaining councilors. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
-- There are nine seats on the council, not counting the [[High Speaker]].
-- Technically, seats are awarded via a majority vote, but money is the real deciding factor.
-### Removal of a Councilor
+- A nomination must be seconded by a second member
+### Election Vote
+- The winner requires a simple majority of the sitting council members to elect a new member
+- If multiple votes ties, the [[High Speaker]] casts the tie-breaking vote. If there is no [[High Speaker]], a simple majority is needed.
+- If a final vote ties, the [[High Speaker]] casts the tie-breaking vote. If there is no [[High Speaker]], a simple majority is needed.
+### Eligibility
+- Any citizen of Vaeldrin can be chosen, but in practice, only individuals with significant wealth, backing, or political alliances receive consideration. Candidates are usually former patrons, influential nobles or landholders, prominent guild leaders, or retired military commanders.
+### I.II Removal of a Councilor
 - Any councilor can be proposed for removal due to misconduct, failure to maintain influence, or harm to the city
+- 
 -  Majority vote is required by the remaining councilors. If in the event of a tie, the [[High Speaker]] is the tie-breaker.
 ### Voting Notes
 - Abstentions are counted as non-votes and do not contribute to reaching a majority.
