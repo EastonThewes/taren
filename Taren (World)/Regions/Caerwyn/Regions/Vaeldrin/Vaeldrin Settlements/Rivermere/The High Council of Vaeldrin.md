@@ -9,6 +9,7 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - Any citizen may be appointed, though wealthy or influential individuals dominate
 - The term length of a council member is 9 years with no limit on the number of terms
 - The term length of the [[High Speaker]] is 10 years with no limit on the number of terms
+- Elections for the council happen on years 1-9 and the speaker happens on the 0 years.
 ##  I.I Appointment of a Councilor
 - A seat becomes vacant due to resignation, removal, death, or a council member seeking High Speakership
 - If a member is appointed to a seat of a removed member, they finish out their term
@@ -40,25 +41,20 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - Each patron may nominate one candidate
 - Nominations require a second
 - Anyone from Vaeldrin may be nominated
-
 ### The Election Phase
 - A candidate must receive two thirds majority (6 of 9)
-- If no candidate reached the threshold, af
+- If no candidate reached the threshold, after three rounds the lowest voted candidate is removed, voting repeats until a winner emerges
+- If no winner is selected after thirty days, the longest serving member becomes the acting speaker until the vote succeeds.
 
-- The [[High Speaker]] is directly elected by the [[Council of Nine]] through a formal vote.
-- A [[High Speaker]] can only be elected when the [[Council of Nine]] if fully seated.
-- A candidate must receive two thirds majority (6 of 9) to be appointed.
-- The Council may not appoint one of their own members without first giving up their seat.
-- The [[High Speaker]] acts as the city's chief diplomat and head of state,
-## Committees and Offices
-- [[The Guild Oversight Committee]] regulates trade, sets tariffs, arbitrates inter-guild disputes
-- [[The Treasury of Vaeldrin]] manages taxation, trade levies, and the council's coffers.
-- [[The Foreign Trade Office]] handles international trade agreements, treaties, and negotiations
-- [[The Watch of the Market]] is a small private militia that protects merchant's interests, enforces trade laws, and maintains order in the capital marketplaces
-# Culture and Influence
-- Councilors are businessmen first, politicians second. Most decisions benefit the profit of themselves before the stability of the city.
-- Wealthy merchants often sponsor public works, festivals, and charities to bolster prestige and influence.
-- Merchant families often manipulate councilors for favors and laws that help them.
-- Guilds may lobby, extort, or “sponsor” councilors to gain favorable laws, tariffs, or trade concessions.
-- Smaller towns may be taxed heavily or extorted for their goods
-- The council focuses on [[Rivermere]] because wealth, trade, and prestige are centered here. Roads, security, and infrastructure in smaller towns may be neglected
+### Resignation of a Councilor Seeking Speakership
+- A councilor must resign their seat to become candidate
+- The seat must be filled before electing a [[High Speaker]]
+
+### II.II Removal of High Speaker
+- The council may remove a speaker through a vote of no confidence
+- Removal requires a two thirds majority
+- Once removed, a new high speaker is elected to finish out the term.
+
+III
+
+
