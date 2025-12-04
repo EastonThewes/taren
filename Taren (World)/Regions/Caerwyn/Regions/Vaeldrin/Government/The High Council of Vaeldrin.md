@@ -78,3 +78,6 @@ The [[Council of Nine]] are a council that works along side the [[High Speaker]]
 - Lord of the Marrow Hills: Mining noble title
 - Grand Arcanist of Vaeldrin: Accredited Nobles who study the Arcane
 ### Merchant Class Titles
+- Guildmaster: Leader of a major guild
+- Master Coinwright: Minters of coin
+

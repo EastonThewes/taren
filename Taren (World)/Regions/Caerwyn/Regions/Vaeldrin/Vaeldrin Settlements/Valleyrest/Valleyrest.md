@@ -1,8 +1,8 @@
 ```table-of-contents
 ```
-## Map
+# Map
 
-```leaflet  
+`leaflet  
 id: ValleyRest ### Must be unique with no spaces  
 image: [[ValleyRest.png]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [4095, 4095]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
@@ -18,9 +18,11 @@ unit: mi ### The value displayed when measuring so you know what type of unit is
 scale: 0.32 ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker
-```
+``
+# Biography
+Valleyrest is a small town of around 160 people. It is settled in the valley of two mountain ranges and acts a stop between
 
-## Places
+# Places
 [[The Valley's Rest]]
 [[Church of Soren]]
 
