@@ -9,7 +9,7 @@ Orc
 Tiefling
 Tabaxi
 Tortle
-Bugbear
+Bugbear?
 Firbolg
 Goblin
 Hobgoblin
