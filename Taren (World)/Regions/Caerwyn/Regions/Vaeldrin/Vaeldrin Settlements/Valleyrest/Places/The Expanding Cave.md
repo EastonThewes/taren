@@ -105,6 +105,8 @@ This room houses three sarcophagi, with two undead orc soldiers and a undead orc
 
 They are old and crumbly. DC20 strength check to move it by themselves. DC15 if aided
 
+Two of the undead orcs are goblin warrior statblocks
+The third is a 
 ## Room 4
 This room is an arcane study, with a broken chair, a desk and a large library. Most the books have dry rotted or have been burned.
 
