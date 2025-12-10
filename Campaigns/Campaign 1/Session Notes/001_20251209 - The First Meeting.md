@@ -8,10 +8,10 @@ No housekeeping for the first session
 
 ## Recap
 ---
-5/17/1147
+12/9/2025
 17th of Greenshade, 1147
 
-[[Carrick Varren]] arrived at [[The Valley's Rest]] in waiting for [[Moses]] to arrive. Carrick's little brother, [[Taren Varren]], arrived there to say goodbye before Carrick left for [[Rivermere]]. Taren also explained to Carrick that [[Lysaen Varren]] and his parents left for Rivermere last week, which was unknown to Carrick. Taren said goodbye and left. Shortly after Taren's departure,  Moses arrived at the Valley's Rest and met up with Carrick at a table by the hearth. Moses explained to him that he had seen a sign for aid and Carrick kind of called him crazy. They both sat and conversed at their table by the fire.
+The session stars with [[Carrick Varren]] arriving at [[The Valley's Rest]] and waiting for [[Moses]] to arrive. Carrick's little brother, [[Taren Varren]], arrived there to say goodbye before Carrick left for [[Rivermere]]. Taren also explained to Carrick that [[Lysaen Varren]] and his parents left for Rivermere last week, which was unknown to Carrick. Taren said goodbye and left. Shortly after Taren's departure,  Moses arrived at the Valley's Rest and met up with Carrick at a table by the hearth. Moses explained to him that he had seen a sign for aid and Carrick kind of called him crazy. They both sat and conversed at their table by the fire.
 
 Shortly after Moses's arrival we're introduced to [[Nahlir]] where he insulted the ale and spit on the counter. After this Nahlir scanned the tavern and made his way over to a table with [[Kol Badar]], who was sitting alone and researching a map that was sprawled over the table. Nahlir tried to introduce Kol to some of his wares, one being a topple less top that could spin forever. Kol did not seem amused by this. Kol and Nahlir both shared their coincidence that they are both outsiders to this town.
 
@@ -21,7 +21,9 @@ The four of them set out in the cold, rainy night to find their way to the dunge
 
 The group moved on to the second room, where they were met with a riddle. While Kol tried to convince Nahlir to unwarp his hand so that he may cut it, Moses walked to the door and wiped some of his blood on the door and the door opened. Moving on, the group entered into an ancient study where there was a bookshelf full of ruined books. After some investigating, Kol found a ruined book, but with the single word, 'Experiments' written on the cover in Orcish. 
 
-After leaving the study, the group moved on to what appeared to be a tomb with three unmarked sarcophagi. The group inspected the tomb without finding anything of interest and moved on to the last route. As they travelled down the hallway, a sudden blast of purple energy flew down the hallways, knocking the party down. After getting up, they rushed into what they learned is an altar room. Lying in the middle is an unconscious Tomas with a burnt tome on the ground  beside him. Carrick checks on Tomas to make sure he is still alive while Moses looks over the tome. Moses deduces that the tome is probably magical, due to the fact that it is currently smoldering and full of embers, but doesn't disintegrate. As 
+After leaving the study, the group moved on to what appeared to be a tomb with three unmarked sarcophagi. The group inspected the tomb without finding anything of interest and moved on to the last route. As they travelled down the hallway, a sudden blast of purple energy flew down the hallways, knocking the party down. After getting up, they rushed into what they learned is an altar room. Lying in the middle is an unconscious Tomas with a burnt tome on the ground  beside him. Carrick checks on Tomas to make sure he is still alive while Moses looks over the tome. Moses deduces that the tome is probably magical, due to the fact that it is currently smoldering and full of embers, but doesn't disintegrate. As the group gathers up and attempts to leave, two undead orcs make their way into the alter room. The group makes quick work of them, killing them in just one round.
+
+The session ends here.
 
 
 
