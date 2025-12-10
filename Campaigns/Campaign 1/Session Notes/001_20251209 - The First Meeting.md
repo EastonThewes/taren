@@ -12,7 +12,9 @@ No housekeeping for the first session
 
 Shortly after Moses's arrival we're introduced to [[Nahlir]] where he insulted the ale and spit on the counter. After this Nahlir scanned the tavern and made his way over to a table with [[Kol Badar]], who was sitting alone and researching a map that was sprawled over the table. Nahlir tried to introduce Kol to some of his wares, one being a topple less top that could spin forever. Kol did not seem amused by this. Kol and Nahlir both shared their coincidence that they are both outsiders to this town.
 
-Suddenly the door the Valley's Rest bursts open, with a drenched [[Ethel Baines]] standin
+Suddenly the door the Valley's Rest bursts open, with a drenched [[Ethel Baines]] standing in the doorway. Shocked, Ethel enters the tavern, speaking that her son, [[Tomas Baines]] had went into [[The Mountain's Spite]], after being dared by some other children. She pleas for anyone to help her. Moses speaks to Carrick about helping her, mentioning the sign that he saw, and the both of them agree to help her. Nahlir convinces Kol to help out, citing that maybe the dungeon might have some of the answers he was looking for about those orcs he spoke about.
+
+
 
 
 
