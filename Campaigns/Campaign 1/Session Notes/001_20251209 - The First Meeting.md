@@ -8,9 +8,9 @@ No housekeeping for the first session
 
 ## Recap
 ---
-[[Carrick Varren]] arrived at [[The Valley's Rest]] in waiting for [[Moses]] to arrive. Carrick's little brother, [[Taren Varren]], arrived there to say goodbye before Carrick left for [[Rivermere]]. Taren also explained to Carrick that [[Lysaen Varren]] and his parents left for [[Rivermere]] last week, which was unknown to Carrick. Taren said goodbye and left.
+[[Carrick Varren]] arrived at [[The Valley's Rest]] in waiting for [[Moses]] to arrive. Carrick's little brother, [[Taren Varren]], arrived there to say goodbye before Carrick left for [[Rivermere]]. Taren also explained to Carrick that [[Lysaen Varren]] and his parents left for Rivermere last week, which was unknown to Carrick. Taren said goodbye and left.
 
-
+Shortly after Taren's departure,  Moses arrived at the Valley's Rest and met up with Carrick at a table by the hearth. Shortly after Moses's arrival we're introduced to [[Nahlir]], where he 
 
 ## Strong Start
 ---
