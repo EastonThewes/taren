@@ -8,7 +8,8 @@ No housekeeping for the first session
 
 ## Recap
 ---
-It is the night of the 17th of Greenshade, in the ye
+5/17/1147
+17th of Greenshade, 1147
 
 [[Carrick Varren]] arrived at [[The Valley's Rest]] in waiting for [[Moses]] to arrive. Carrick's little brother, [[Taren Varren]], arrived there to say goodbye before Carrick left for [[Rivermere]]. Taren also explained to Carrick that [[Lysaen Varren]] and his parents left for Rivermere last week, which was unknown to Carrick. Taren said goodbye and left. Shortly after Taren's departure,  Moses arrived at the Valley's Rest and met up with Carrick at a table by the hearth. Moses explained to him that he had seen a sign for aid and Carrick kind of called him crazy. They both sat and conversed at their table by the fire.
 
@@ -16,7 +17,7 @@ Shortly after Moses's arrival we're introduced to [[Nahlir]] where he insulted t
 
 Suddenly the door the Valley's Rest bursts open, with a drenched [[Ethel Baines]] standing in the doorway. Shocked, Ethel enters the tavern, speaking that her son, [[Tomas Baines]] had went into [[The Mountain's Spite]], after being dared by some other children. She pleas for anyone to help her. Moses speaks to Carrick about helping her, mentioning the sign that he saw, and the both of them agree to help her. Nahlir convinces Kol to help out, citing that maybe the dungeon might have some of the answers he was looking for about those orcs he spoke about.
 
-The four of them set out
+The four of them set out in the cold, rainy night to find their way to the dungeon. After a bit of difficulty navigating in the cold and rain, the group eventually finds their way to the mouth of the cave, where they enter in hopes of finding Tomas. The group approaches the barricaded entryway, with a giant stone door laying down on the ground beside it. Carrick hacks away at the rotted timber and the group enters 
 
 
 
