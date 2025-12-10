@@ -21,7 +21,7 @@ The four of them set out in the cold, rainy night to find their way to the dunge
 
 The group moved on to the second room, where they were met with a riddle. While Kol tried to convince Nahlir to unwarp his hand so that he may cut it, Moses walked to the door and wiped some of his blood on the door and the door opened. Moving on, the group entered into an ancient study where there was a bookshelf full of ruined books. After some investigating, Kol found a ruined book, but with the single word, 'Experiments' written on the cover in Orcish. 
 
-After leaving the study, the group moved on to what appeared to be a tomb with three unmarked sarcophagi  
+After leaving the study, the group moved on to what appeared to be a tomb with three unmarked sarcophagi. The group inspected the tomb without finding anything of interest and moved on
 
 
 
