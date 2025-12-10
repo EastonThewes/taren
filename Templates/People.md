@@ -24,3 +24,6 @@
 
 ## Information
 ---
+
+## Notes
+---

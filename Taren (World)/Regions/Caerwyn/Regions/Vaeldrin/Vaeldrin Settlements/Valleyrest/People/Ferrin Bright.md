@@ -46,3 +46,6 @@
 - Knows the surrounding areas very well
 - Remembers when the "Old Ruin" first cracked open some years ago. They did their best to fortify it up, but cracks kept forming and everyone was told to not enter.
 
+## Notes
+---
+- Not to fond of [[Nahlir]] because he insulted the ale and spit on his counter
