@@ -1,6 +1,6 @@
 ## Session Summary
 ---
-> [!tldr] [[001_20251208 - The First Meeting]]
+> [!tldr] [[001_20251209 - The First Meeting]]
 
 ## Housekeeping
 ---
@@ -8,7 +8,7 @@ No housekeeping for the first session
 
 ## Recap
 ---
-No recap for the first session
+The party met up 
 
 ## Strong Start
 ---
