@@ -10,7 +10,9 @@ No housekeeping for the first session
 ---
 [[Carrick Varren]] arrived at [[The Valley's Rest]] in waiting for [[Moses]] to arrive. Carrick's little brother, [[Taren Varren]], arrived there to say goodbye before Carrick left for [[Rivermere]]. Taren also explained to Carrick that [[Lysaen Varren]] and his parents left for Rivermere last week, which was unknown to Carrick. Taren said goodbye and left.
 
-Shortly after Taren's departure,  Moses arrived at the Valley's Rest and met up with Carrick at a table by the hearth. Shortly after Moses's arrival we're introduced to [[Nahlir]] where he insulted the ale and spit on the counter.
+Shortly after Taren's departure,  Moses arrived at the Valley's Rest and met up with Carrick at a table by the hearth. Moses explained to him that he had seen a sign for aid and Carrick kind of called him crazy. They both sat and conversed at their table by the fire.
+
+Shortly after Moses's arrival we're introduced to [[Nahlir]] where he insulted the ale and spit on the counter. After this Nahlir scanned the tavern and made his way over to a table with [[Kol Badar]], who was sitting alone and researching a map that was sprawled over the table. Nahlir tried to introduce Kol to some of his wares, one being a topple less top that could spin forever. Kol did not seem amused by this. Kol explained to Nah
 
 ## Strong Start
 ---
