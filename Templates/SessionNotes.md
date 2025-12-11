@@ -21,13 +21,9 @@ No housekeeping for the first session
 - [ ] 
 - [ ] 
 - [ ] 
-
-
 ## Secrets and Clues
 ---
 - [ ] 
-
-
 ## Loot
 ---
 - [ ] 
