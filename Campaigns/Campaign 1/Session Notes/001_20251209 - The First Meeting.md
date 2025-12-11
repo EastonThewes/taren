@@ -29,11 +29,6 @@ The group moved on to the second room, where they were met with a riddle. While 
 After leaving the study, the group moved on to what appeared to be a tomb with three unmarked sarcophagi. The group inspected the tomb without finding anything of interest and moved on to the last route. As they travelled down the hallway, a sudden blast of purple energy flew down the hallways, knocking the party down. After getting up, they rushed into what they learned is an altar room. Lying in the middle is an unconscious Tomas with a burnt tome on the ground  beside him. Carrick checks on Tomas to make sure he is still alive while Moses looks over the tome. Moses deduces that the tome is probably magical, due to the fact that it is currently smoldering and full of embers, but doesn't disintegrate. As the group gathers up and attempts to leave, two undead orcs make their way into the alter room. The group makes quick work of them, killing them in just one round.
 
 The session ends here.
-
-
-
-
-
 ## Strong Start
 ---
 > [!info] The Valley's Rest and the Missing Boy
