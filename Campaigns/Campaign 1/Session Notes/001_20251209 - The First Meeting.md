@@ -1,7 +1,9 @@
 ## Session Summary
 ---
 > [!tldr] [[001_20251209 - The First Meeting]]
-> The party meets up for the first time at The Valley's Rest Tavern and Inn when a distressed Ethel Baine
+> The party meets up for the first time at The Valley's Rest Tavern and Inn when a distressed Ethel Baines bursts through the door claiming that her son, Tomas, had went into the dangerous dungeon, The Mountains Spite. 
+> The party joins together for their own reasons to help out, and leaves the tavern heading towards the dungeon. After some struggling to make it to the dungeon, they venture into the mouth of the cave, breaking through the boards blocking the entrance of the dungeon and entering inside. 
+> There they defeated an animated statue, solved a riddle, discovered a partially destroyed book titled 'Experiments', and visited three sarcophagi. They made their way down the final corridor when a strong force blasted down the halls, and when they made their way into the altar room, they found Tomas lying on the ground beside a burnt tome. They 
 
 ## Housekeeping
 ---
