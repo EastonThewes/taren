@@ -1,7 +1,7 @@
 ## Session Summary
 ---
 > [!tldr] [[001_20251209 - The First Meeting]]
-> Test
+> The party meets up for the first time at The Valley's Rest Tavern and Inn when a distressed Ethel Baine
 
 ## Housekeeping
 ---
