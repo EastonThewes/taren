@@ -69,3 +69,6 @@ The session ends here.
 - Taren informed Carrick that their parents have left for Rivermere last week and that they didn't even say goodbye to Carrick
 	- Carrick doesn't know why they left for Rivermere. He didn't ask and Taren didn't say
 - The party learned that [[Ethel Baines]] had lost her husband and is widowed
+- They made it to the dungeon and learned about the orcs worshipping the lone star on the dungeon wall.
+- They found the book with the word "Experiments" on it in the study
+- They found the unconscious [[Tomas Baines]] and a embered book
