@@ -66,3 +66,6 @@ The session ends here.
 - [ ] 
 ## Notes
 ---
+- Taren informed Carrick that their parents have left for Rivermere last week and that they didn't even say goodbye to Carrick
+	- Carrick doesn't know why they left for Rivermere. He didn't ask and Taren didn't say
+- The party learned that [[Ethel Baines]] had lost her husband and is widowed
