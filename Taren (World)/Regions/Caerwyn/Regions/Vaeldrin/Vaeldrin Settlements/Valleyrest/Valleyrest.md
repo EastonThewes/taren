@@ -32,6 +32,10 @@ Most of the money made in [[Valleyrest]] comes from the passing by of merchants 
 # Places
 [[The Valley's Rest]]
 [[Church of Soren]]
+[[Valleyrest General Store]]
+[[Bram's Smithy]]
+[[Holm & Sons Carpentry]]
+
 
 ## People
 Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Half-Orcs, single gnome family
