@@ -1,0 +1,8 @@
+- Town Size: Thorp; Population: 20-80; GP Limit: 40g
+- Town Size: Hamlet; Population: 81-400; GP Limit: 100g
+- Town Size: Village; Population: 401-900; GP Limit: 200g
+- Town Size: Small town; Pop: 901-2000; GP Limit: 800g
+- Town Size: Large town; Pop: 2001-5000; GP Limit: 3000g
+- Town Size: Small city; Pop: 5001-12,000; GP Limit: 15,000g
+- Town Size: Large city; Pop: 12,001-25,000; GP Limit: 40,000g
+- Town Size: Metropolis; Pop: 25,000+; GP Limit: 100,000g

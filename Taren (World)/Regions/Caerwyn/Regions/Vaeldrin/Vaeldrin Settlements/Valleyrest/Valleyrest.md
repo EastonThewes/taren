@@ -20,11 +20,14 @@ recenter: false
 darkmode: false ### marker
 ``
 # Biography
-Valleyrest is a small town of around 160 people. It is settled in the valley of two mountain ranges and acts a stop for people traveling between the two cities, [[Polsfield]] and [[Celes]].
+Settlement Size: Hamlet
+Founding date: 1032
+
+Valleyrest is a small hamlet of around 160 people. It is settled in the valley of two mountain ranges and acts a stop for people traveling between the two cities, [[Polsfield]] and [[Celes]].
 
 Most of the money made in [[Valleyrest]] comes from the passing by of merchants and others, spending their coin at [[The Valley's Rest]] for lodging. Other methods of income are small mines that produce a small amount of coal and iron, furs, and timber mined from a local forest.
 
-[[Valleyrest]] is a few hundred years old and has seen slow steady growth as [[Vaeldrin]] grows more powerful and trade increases.
+[[Valleyrest]] is a 115 years old and has seen slow steady growth as [[Vaeldrin]] grows more powerful and trade increases.
 
 # Places
 [[The Valley's Rest]]
