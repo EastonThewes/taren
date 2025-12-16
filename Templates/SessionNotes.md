@@ -1,6 +1,6 @@
 ## Session Summary
 ---
-> [!tldr] [[001_20251209 - The First Meeting]]
+> [!tldr] [[001_20251209 - The Missing Boy]]
 
 ## Housekeeping
 ---

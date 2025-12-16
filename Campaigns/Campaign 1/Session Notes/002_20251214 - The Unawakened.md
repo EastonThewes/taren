@@ -1,6 +1,6 @@
 ## Session Summary
 ---
-> [!tldr] [[002_20251214 -]]
+> [!tldr] [[002_20251214 - The Unawakened]]
 
 ## Housekeeping
 ---
@@ -9,7 +9,7 @@
 
 ## Recap
 ---
-![[001_20251209 - The First Meeting#Session Summary]]
+![[001_20251209 - The Missing Boy#Session Summary]]
 
 
 ## Strong Start
@@ -22,7 +22,7 @@
 - [x] The players leaving the dungeon heading out into the night back to [[Valleyrest]]
 - [x] As they're heading back to town, they feel something stalking them, a pack of three wolves can be seen stalking them as they are walking back (May or may not attack)
 - [x] The party brings [[Tomas Baines]] back to [[The Valley's Rest]] to his mother, [[Ethel Baines]] and the party and Ethel realize that he isn't waking up and that his eyes are grayed over with specs of purple floating in them. He is in some type of comatose state
-- [ ] They speak with someone ([[Brother Harl]] or [[Ferrin Bright]]) and they speak of story that he heard from a couple merchants from [[Celes]] speaking of a story of an apple that can cure any ailment that can be bought in [[Oakhurst]]
+- [x] They speak with someone ([[Brother Harl]] or [[Ferrin Bright]]) and they speak of story that he heard from a couple merchants from [[Celes]] speaking of a story of an apple that can cure any ailment that can be bought in [[Oakhurst]]
 	- [ ] Tomas was the only one to see what he saw before the explosion. If he is brought back, maybe he can shed some light on what he saw
 	- [ ] If he is brought back, he can tell the party what he read
 	- [ ] They should do it because they're nice :)
@@ -44,4 +44,5 @@
 - [ ] 
 ## Notes
 ---
-
+- The players are wanting to go to the general store to load up on potions and other supplies
+- 
