@@ -6,8 +6,7 @@ The party decides to leave the dungeon and get Tomas back to Valleyrest. Before 
 
 After a fight that leaves Moses unconscious, the group carries on and makes their way back to town, entering into [[The Valley's Rest]], finding [[Ferrin Bright]], [[Brother Harl]], and [[Ethel Baines]] sitting at a lone table in the middle of the tavern. [[Brother Harl]] heals [[Moses]] and when he tries on [[Tomas Baines]], nothing works. The group inquires with Harl about the black stone, emberred book, and the chest plate [[Kol Badar]] has. He is unable to provide any real answers. The group decides to take [[Tomas Baines]] to [[Seris Varren]] the following day to see if she can provide any answers.
 
-Carrick heads to speak with [[G]]
-
+Carrick heads to speak with [[Galid Tnosh]] about the 'Experiments' book and learns that even a half-orc cannot read it. Carrick heads to Moses's home to meet up with the rest of the party. The rest of the evening is spent conversing and smoking from a magical pipe that [[Nahlir]] shares with the group.
 
 ## Housekeeping
 ---
