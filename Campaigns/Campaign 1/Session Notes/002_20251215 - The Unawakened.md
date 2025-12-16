@@ -6,6 +6,8 @@ The party decides to leave the dungeon and get Tomas back to Valleyrest. Before 
 
 After a fight that leaves Moses unconscious, the group carries on and makes their way back to town, entering into [[The Valley's Rest]], finding [[Ferrin Bright]], [[Brother Harl]], and [[Ethel Baines]] sitting at a lone table in the middle of the tavern. [[Brother Harl]] heals [[Moses]] and when he tries on [[Tomas Baines]], nothing works. The group inquires with Harl about the black stone, emberred book, and the chest plate [[Kol Badar]] has. He is unable to provide any real answers. The group decides to take [[Tomas Baines]] to [[Seris Varren]] the following day to see if she can provide any answers.
 
+Carrick heads to speak with [[G]]
+
 
 ## Housekeeping
 ---
