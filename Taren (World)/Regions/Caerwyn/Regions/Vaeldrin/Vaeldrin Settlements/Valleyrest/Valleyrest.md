@@ -63,7 +63,7 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Victor Goblinbane]]   | Male Dwarf - Travelling historian                                                                                   |
 | [[Faran Leagallow]]     | Male Halfling                                                                                                       |
 | [[Anne Leagallow]]      | Female Halfling                                                                                                     |
-| [[Richard Peyton]]      | Human Male                                                                                                          |
+| [[Richy Peyton]]        | Human Male                                                                                                          |
 | [[Jane Hallwell]]       | Human Female                                                                                                        |
 |                         |                                                                                                                     |
 
