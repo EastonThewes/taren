@@ -59,8 +59,8 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | [[Jane Deighton]]       | Female Human                                                                                                        |
 | [[Greg Harper]]         | Male Human                                                                                                          |
 | [[Helen Harper]]        | Female Human                                                                                                        |
-| [[Hulmilyn Goblinbane]] | Female Dwarf                                                                                                        |
-| [[Victor Goblinbane]]   | Male Dwarf                                                                                                          |
+| [[Hulmilyn Goblinbane]] | Female Dwarf - Travelling historian wife                                                                            |
+| [[Victor Goblinbane]]   | Male Dwarf - Travelling historian                                                                                   |
 | [[Faran Leagallow]]     | Male Halfling                                                                                                       |
 | [[Anne Leagallow]]      | Female Halfling                                                                                                     |
 | [[Richard Peyton]]      | Human Male                                                                                                          |
