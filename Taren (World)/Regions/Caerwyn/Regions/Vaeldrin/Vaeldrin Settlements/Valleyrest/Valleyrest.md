@@ -44,7 +44,7 @@ Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Hal
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [[Ferrin Bright]]       | The Valley's Rest Owner                                                                                             |
 | [[Jim Dallin]]          | Middle-aged human. Former trader turned administrator. Fair but pragmatic. Keeps ledgers cleaner than his house.    |
-| [[Lysa Greenthorn]]     | Half-elf herbalist. Runs a small apothecary and general store. Quiet, observant, supplies both healers and hunters. |
+| [[Taren (World)/Regions/Caerwyn/Regions/Vaeldrin/Vaeldrin Settlements/Valleyrest/People/Lysa Greenthorn]]     | Half-elf herbalist. Runs a small apothecary and general store. Quiet, observant, supplies both healers and hunters. |
 | [[Bram Weller]]         | Dwarven smith. Works iron and repairs farm tools. Grumbles about the forge’s damp air but won’t leave it.           |
 | [[Calen Vos]]           | Young ranger. Patrols nearby woods, occasionally reports strange prints or missing livestock.                       |
 | [[Brother Harl]]        | Elderly Priest of the [[Valleyrest's Church of Soren]]                                                              |
