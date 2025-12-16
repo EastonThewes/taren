@@ -1,12 +1,11 @@
 ## Session Summary
 ---
-> [!tldr] [[002_20251214 - The Unawakened]]
+> [!tldr] [[002_20251215 - The Unawakened]]
 
+The party decides to leave the dungeon and get Tomas back to Valleyrest. Before leaving they check on Tomas, learning that his eyes are grayed with purple specs and he is in a comatose state. As they're heading back to V
 ## Housekeeping
 ---
 - Check who has the book of embers
-- 
-
 ## Recap
 ---
 ![[001_20251209 - The Missing Boy#Session Summary]]
@@ -23,7 +22,7 @@
 - [x] As they're heading back to town, they feel something stalking them, a pack of three wolves can be seen stalking them as they are walking back (May or may not attack)
 - [x] The party brings [[Tomas Baines]] back to [[The Valley's Rest]] to his mother, [[Ethel Baines]] and the party and Ethel realize that he isn't waking up and that his eyes are grayed over with specs of purple floating in them. He is in some type of comatose state
 - [x] They speak with someone ([[Brother Harl]] or [[Ferrin Bright]]) and they speak of story that he heard from a couple merchants from [[Celes]] speaking of a story of an apple that can cure any ailment that can be bought in [[Oakhurst]]
-	- [ ] Tomas was the only one to see what he saw before the explosion. If he is brought back, maybe he can shed some light on what he saw
+	- [x] Tomas was the only one to see what he saw before the explosion. If he is brought back, maybe he can shed some light on what he saw
 	- [ ] If he is brought back, he can tell the party what he read
 	- [ ] They should do it because they're nice :)
 - [ ] The party goes to the general store to load up on supplies
