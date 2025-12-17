@@ -6,3 +6,4 @@ Eventually the dwarven civilization collapses and Whisperfang's where abouts bec
 
 During one of the battles between [[The Kingdom of Dagoth]] and [[The Jagged Rock Tribe]], Whisperfang is stolen and is not seen again, except in some cases. Some orcish weaponsmiths add the spinal core and pommel to sword. Whisperfang eventually makes its way to [[Uma]], who is able to recognize that the blade is made from [[Astral Metal]] and could be used to take over the [[Astral Forge]]. He is able to imbue the pommel with [[The Whisperstone]]
 
+Eventually before [[Uma]] is able to use the sword, an adventuring party defeats him, but not before [[Uma]] can pass [[The Whisperstone]] to [[Mol]]. The adventuring party takes the sword and breaks it up into four pieces and put them in different places around the continent.
