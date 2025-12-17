@@ -1,1 +1,3 @@
-Ancient sword forged from metal that had fallen from the [[Astral Forge]]. The sword is over two-thousand years old.
+
+---
+
