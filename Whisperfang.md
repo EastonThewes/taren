@@ -1,20 +1,15 @@
-
 ---
-aat-render-enabled: true
-timelines:
-  - timelinename
-fc-date: 1491-01-11
-fc-end: 1491-01-12
-fc-category: Event Category 1
-fc-display-name: EventName
-
+aat-event-start-date: "359"
+"aat-event-end-date: 435": "435"
+aat-render-enabled: "true"
+timelines: " [timeline, event]"
 ---
-
-
-
-
-```aat-vertical  
-timelinename  
-Beep Boop
 
 ```
+aat-inline-event
+aat-event-start-date: 54
+aat-event-end-date: true
+aat-render-enabled: true
+timelines: [timeline]
+```
+
