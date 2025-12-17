@@ -6,6 +6,8 @@
     "world": "multitext",
     "sessionNumber": "number",
     "sessionDate": "datetime",
-    "timlines": "multitext"
+    "timlines": "multitext",
+    "timelines": "multitext",
+    "aat-render-enabled": "number"
   }
 }
