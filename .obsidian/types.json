@@ -5,6 +5,7 @@
     "tags": "tags",
     "world": "multitext",
     "sessionNumber": "number",
-    "sessionDate": "datetime"
+    "sessionDate": "datetime",
+    "timlines": "multitext"
   }
 }
