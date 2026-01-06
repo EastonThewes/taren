@@ -1,10 +1,278 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Taren Calender",
+      "description": null,
+      "id": "ID_991be9abe848",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_9b09da5be8b9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Moonday",
+            "id": "ID_3a6ad909d849",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Toilday",
+            "id": "ID_591a08d888ea",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Waterday",
+            "id": "ID_1bd84a18d8b9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Earthday",
+            "id": "ID_aa780bfa98fb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Fireday",
+            "id": "ID_2b0b89d92a48",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Starday",
+            "id": "ID_096a5aeb0bba",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Frostwane",
+            "type": "month",
+            "length": 28,
+            "id": "ID_080aaaf96baa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Snowmelt",
+            "type": "month",
+            "length": 28,
+            "id": "ID_ea18da59ab3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Rainmere",
+            "type": "month",
+            "length": 28,
+            "id": "ID_38cba9680a9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Bloomtide",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f8fbfa0a2b18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Greenshade",
+            "type": "month",
+            "length": 28,
+            "id": "ID_e97bdaba0bd8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Highsun",
+            "type": "month",
+            "length": 28,
+            "id": "ID_dbf86b99987b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Goldwane",
+            "type": "month",
+            "length": 28,
+            "id": "ID_bbfa28cb0a49",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Amberfall",
+            "type": "month",
+            "length": 28,
+            "id": "ID_8b7968e86a68",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Leafturn",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fa5879d96ad8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Duskwane",
+            "type": "month",
+            "length": 28,
+            "id": "ID_c888fbe8c839",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Deepnight",
+            "type": "month",
+            "length": 28,
+            "id": "ID_896a29cae9bb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Starhaven",
+            "type": "month",
+            "length": 28,
+            "id": "ID_9b882999885b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Yearsend",
+            "type": "month",
+            "length": 28,
+            "id": "ID_a8889b39fb5b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 27,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_d90b38796928"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Midyear",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 1
+              }
+            ],
+            "timespan": 6,
+            "intercalary": false,
+            "numbered": true,
+            "after": 7,
+            "offset": 0,
+            "id": "ID_08da1b9bdbc9"
+          }
+        ],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_a83b8ad9db29",
+            "name": "Spring",
+            "type": "Dated",
+            "kind": "Spring",
+            "month": 1,
+            "day": 1,
+            "color": "#18a427",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_2b7b1ae8a96a",
+            "name": "Summer",
+            "type": "Dated",
+            "kind": "Summer",
+            "month": 4,
+            "day": 15,
+            "color": "#d5bc22",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_cb7b884ba96a",
+            "name": "Fall",
+            "type": "Dated",
+            "kind": "Autumn",
+            "month": 7,
+            "day": 15,
+            "color": "#c86e00",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_6ad8bb19b9fb",
+            "name": "Winter",
+            "type": "Dated",
+            "kind": "Winter",
+            "month": 10,
+            "day": 15,
+            "color": "#006bad",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 17,
+        "month": 4,
+        "year": 1147
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_991be9abe848",
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -22,7 +290,7 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
+  "askedAboutSync": true,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
   "paths": [

@@ -1,17 +1,16 @@
+#Person #Valleyrest #Vaeldrin 
 ## Biography
----
+
 **Location:**
 **Race:**
 **Age:**
-**Birthday:**
 **Appearance:**
-
 
 **Backstory:**
 ## Personality
----
+
 ### Roleplay Notes
----
+
 #### Voice
 
 #### Speech Habits
@@ -19,11 +18,7 @@
 #### Demeanor
 
 #### Behavior
-## Goals
----
+#### Motivations
 
 ## Information
----
 
-## Notes
----

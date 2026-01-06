@@ -4,19 +4,19 @@ Elf - 400 year life spans
 Gnome
 Goliath
 Halfling
-Human
+Human 
 Orc
 Tiefling
 Tabaxi
 Tortle
-Bugbear
+Bugbear?
 Firbolg
 Goblin
 Hobgoblin
 Kenku
 Minotaur
 Feral Tiefling
-Genasi
+Genasi - 150 year life spans
 
 (Maybes)
 Satyr
