@@ -36,7 +36,7 @@ Most of the money made in [[Valleyrest]] comes from the passing by of merchants 
 [[Bram's Smithy]]
 [[Holm & Sons Carpentry]]
 
-## People
+# People
 Mostly Humans, with some Half-Elves, a few full Elves, some Halflings, a few Half-Orcs, single gnome family
 
 | Name                    | Description                                                                                                         |
