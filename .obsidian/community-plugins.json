@@ -1,14 +1,7 @@
 [
-  "table-editor-obsidian",
-  "calendarium",
-  "obsidian-dice-roller",
-  "obsidian-5e-statblocks",
-  "obsidian-git",
-  "homepage",
-  "obsidian-leaflet-plugin",
   "obsidian-meta-bind-plugin",
   "omnisearch",
-  "automatic-table-of-contents",
-  "chronos",
-
+  "obsidian-leaflet-plugin",
+  "homepage",
+  "obsidian-git"
 ]
