@@ -15,4 +15,3 @@
 - Garon, the barkeep, remembers the last time someone asked about the Sunken Citadel, a grim human named Belak stopped by and had a very large pet frog
 
 ## The Citadel
-- The ravine 
