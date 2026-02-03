@@ -1,6 +1,6 @@
 ## Session Summary
 ---
-> [!tldr] [[001_20251209 - The Missing Boy]]
+> [!tldr] [[007_20260128 - Let's play Runeball!]]
 
 ## Housekeeping
 ---
@@ -8,13 +8,7 @@ No housekeeping for the first session
 
 ## Recap
 ---
-
-## Strong Start
----
-> [!info] The Valley's Rest and the Missing Boy
-> The players are inside of [[The Valley's Rest]] in the small town of [[Valleyrest]].
-> 
-> [[The Expanding Cave]]
+![[006_20260120 - Arriving in Celes#Session Summary]]
 
 ## Scenes
 ---

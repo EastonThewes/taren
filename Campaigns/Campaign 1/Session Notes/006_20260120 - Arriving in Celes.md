@@ -1,6 +1,6 @@
 ## Session Summary
 ---
-> [!tldr] [[001_20251209 - The Missing Boy]]
+> [!tldr] [[006_20260120 - Arriving in Celes]]
 
 ## Housekeeping
 ---
@@ -8,14 +8,7 @@ No housekeeping for the first session
 
 ## Recap
 ---
-
-## Strong Start
----
-> [!info] The Valley's Rest and the Missing Boy
-> The players are inside of [[The Valley's Rest]] in the small town of [[Valleyrest]].
-> 
-> [[The Expanding Cave]]
-
+![[005_20260106 - Killing the Clown#Session Summary]]
 ## Scenes
 ---
 - [x] The party wakes up the next day in the inn. Villagers question about the shockwave that "came from that way"

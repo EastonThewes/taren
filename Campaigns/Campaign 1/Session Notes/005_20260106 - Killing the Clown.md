@@ -1,6 +1,6 @@
 ## Session Summary
 ---
-> [!tldr] [[001_20251209 - The Missing Boy]]
+> [!tldr] [[005_20260106 - Killing the Clown]]
 
 ## Housekeeping
 ---
@@ -8,13 +8,8 @@ No housekeeping for the first session
 
 ## Recap
 ---
+![[004_20260103 - The Funhouse#Session Summary]]
 
-## Strong Start
----
-> [!info] The Valley's Rest and the Missing Boy
-> The players are inside of [[The Valley's Rest]] in the small town of [[Valleyrest]].
-> 
-> [[The Expanding Cave]]
 
 ## Scenes
 ---
