@@ -1,3 +1,3 @@
-Associate Professor of Applied Conjuration at [[Celes University]]
+Associate Professor of Applied Transmutation at [[Celes University]]
 
 Main studies in 
