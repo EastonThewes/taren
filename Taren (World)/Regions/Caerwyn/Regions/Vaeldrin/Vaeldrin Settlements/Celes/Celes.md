@@ -24,7 +24,7 @@ Markets, theaters, civic halls
 - [[Merve's Magnificents]]
 - The Golden Barrel
 - The Three Shields
-- 
+- The Dancing Bear - Strip Club
 ## The Scholar's Quarter
 college, libraries
 # People
