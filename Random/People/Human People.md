@@ -4,6 +4,6 @@
 [[Galdren Virethas]]
 [[Drakar Vimirth]]
 [[Malcolm Thron]] - Halfing at Celes, RA
-[[Lila Cade]]
+[[Lila Cade]] - Rivermere Historian
 [[Eira Wren]]
 [[Ben Quickwit]] - Guy who screwed over Nahlir
