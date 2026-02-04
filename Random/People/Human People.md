@@ -1,0 +1,8 @@
+[[Vorrelle Mistren]]
+[[Jorathis Krndor]]
+[[Lirael Sonathra]]
+[[Galdren Virethas]]
+[[Drakar Vimirth]]
+[[Malcolm Thron]]
+[[Lila Cade]]
+[[Eira Wren]]
