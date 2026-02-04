@@ -6,4 +6,4 @@
 [[Malcolm Thron]] - Halfing at Celes, RA
 [[Lila Cade]]
 [[Eira Wren]]
-[[Ben Quickwit]] 
+[[Ben Quickwit]] - Guy who screwed over Nahlir
