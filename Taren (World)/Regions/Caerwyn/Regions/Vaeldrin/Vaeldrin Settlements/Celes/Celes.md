@@ -1,3 +1,6 @@
+[[Vaeldrin]]
+
+# Celes Table of Contents
 ```table-of-contents
 ```
 
