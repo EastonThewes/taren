@@ -1,0 +1,2 @@
+- Carrick's parents and brother have been in Rivermere for about a week at this point, arriving in Rivermere around the time of the first session.
+	- His dad has been chopping it up with 
